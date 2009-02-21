@@ -1,0 +1,58 @@
+<!-- This is the start of the instrument widget -->
+
+<center>
+ <h2>Text 2 Midi Converter</h2>
+<div id="midi_form">
+<%= text_area_tag "midi_text", "put text here" %>
+  <%= hidden_field_tag 'tempo', 140 %>
+  <%= hidden_field_tag 'instr', 0 %>
+</div>
+</center>
+<div style="margin-left:220px">
+<br/><br/>
+<b>Tempo<b/><br/>
+
+<div id="track1" style="width:100px; background-color:#ccc; height:10px;">
+<div id="handle1" class="handle" style="background-image:url('/images/green_arrow.png')"></div>
+
+<p id="debug1">&nbsp;</p>
+</div>
+<p>&nbsp;</p>
+<br/><br/>
+<b>Instrument</b>
+<br/><br/>
+
+<div id="track2" style="width:138px; background-color:#ccc; height:10px;">
+    <div id="handle2" class="handle" style="background-image:url('/images/green_arrow.png')"></div>
+  </div><br/>
+<div id="instrument-name">&nbsp;</div>
+</div><br/>
+<center>
+<span><%= link_to_remote(image_tag("gm.png"), :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') %></span></center>
+</div>
+</div>
+</div>
+
+<!-- Controls the The slider info -->
+<script type="text/javascript" language="javascript">
+// <![CDATA[
+// horizontal slider control with preset values
+  new Control.Slider('handle1', 'track1', {
+    range: $R(40, 200),
+    <% temp = (40..200).to_a.select{ |x| x%5 == 0 } -%>
+    values: [<%= temp.join(',') %>],
+    sliderValue: 1, // won't work if set to 0 due to a bug(?) in script.aculo.us
+    onSlide: function(v){ $('debug1').innerHTML = 'tempo: ' + v; $('tempo').value = v; },
+    onChange: function(v){ $('debug1').innerHTML = 'tempo: ' + v }
+  });
+  
+  new Control.Slider('handle2', 'track2', {
+    range: $R(1,128),
+    values: [<%= (1..128).to_a.join(',') %>],
+    sliderValue: 1, // won't work if set to 0 due to a bug(?) in script.aculo.us
+    onSlide: function(v){ setBox(v); $('instr').value = v; },
+    onChange: function(v){ setBox(v); $('instr').value = v; }
+  });
+    
+// ]]>
+</script>

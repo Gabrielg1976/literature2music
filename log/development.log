@@ -1,0 +1,2765 @@
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:06:35) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.01759 (56 reqs/sec) | Rendering: 0.01459 (82%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 01:06:44) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"e4486dd8365eb74b3aabc39a6298ab067fa2efd6", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.03748 (26 reqs/sec) | Rendering: 0.03410 (90%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:09:19) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00627 (159 reqs/sec) | Rendering: 0.00428 (68%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:10:52) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00628 (159 reqs/sec) | Rendering: 0.00431 (68%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:11:56) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00625 (159 reqs/sec) | Rendering: 0.00436 (69%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:15:12) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00707 (141 reqs/sec) | Rendering: 0.00512 (72%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:17:33) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00728 (137 reqs/sec) | Rendering: 0.00527 (72%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:18:21) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00721 (138 reqs/sec) | Rendering: 0.00521 (72%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:18:24) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00464 (215 reqs/sec) | Rendering: 0.00267 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:20:21) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00717 (139 reqs/sec) | Rendering: 0.00522 (72%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:20:45) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00484 (206 reqs/sec) | Rendering: 0.00279 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:22:12) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00824 (121 reqs/sec) | Rendering: 0.00625 (75%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:22:12) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/pozadi_nadpis_menu.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:22:12) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/pozadi_menu.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:22:12) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/menu_li_a.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:22:13) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/menu_li_a_hover.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 01:22:26) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"e4486dd8365eb74b3aabc39a6298ab067fa2efd6", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00396 (252 reqs/sec) | Rendering: 0.00068 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 01:23:46) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.08230 (12 reqs/sec) | Rendering: 0.08031 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:23:46) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/pozadi_menu.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:23:46) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/menu_li_a.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:23:46) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/pozadi_nadpis_menu.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-02-11 01:23:47) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {}
+
+
+ActionController::RoutingError (No route matches "/stylesheets/img/menu_li_a_hover.jpg" with {:method=>:get}):
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/recognition_optimisation.rb:67:in `recognize_path'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/routing/route_set.rb:384:in `recognize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:148:in `handle_request'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:107:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:104:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:120:in `dispatch_cgi'
+    /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/dispatcher.rb:35:in `dispatch'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:76:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `synchronize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/../lib/mongrel/rails.rb:74:in `process'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:282:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `each'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/configurator.rb:281:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:128:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel/command.rb:212:in `run'
+    /Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/bin/mongrel_rails:281
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:502:in `load'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/servers/mongrel.rb:64
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:354:in `new_constants_in'
+    /Library/Ruby/Gems/1.8/gems/activesupport-2.1.0/lib/active_support/dependencies.rb:509:in `require'
+    /Library/Ruby/Gems/1.8/gems/rails-2.1.0/lib/commands/server.rb:39
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+    /Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+    script/server:3
+
+Rendering /Library/Ruby/Gems/1.8/gems/actionpack-2.1.0/lib/action_controller/templates/rescues/layout.erb (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 01:23:49) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlYWI4NmM1YTE5M2Q1NzgyZjQy
+MGUwMGI2YjEyZjAwZTE=--98c208a2c265ea5c145395b4627f83f45770d0e4
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"e4486dd8365eb74b3aabc39a6298ab067fa2efd6", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00402 (248 reqs/sec) | Rendering: 0.00067 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:08:41) [GET]
+  Session ID: 104d393ddcef742f9dfd18faa60a0e21
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.03064 (32 reqs/sec) | Rendering: 0.02758 (90%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:10:12) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00628 (159 reqs/sec) | Rendering: 0.00435 (69%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:12:56) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00760 (131 reqs/sec) | Rendering: 0.00572 (75%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-11 09:13:41) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00754 (132 reqs/sec) | Rendering: 0.00477 (63%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:13:48) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00458 (218 reqs/sec) | Rendering: 0.00254 (55%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-11 09:13:58) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.08064 (12 reqs/sec) | Rendering: 0.07872 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-11 09:15:13) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00658 (151 reqs/sec) | Rendering: 0.00467 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:15:23) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00764 (130 reqs/sec) | Rendering: 0.00568 (74%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:16:08) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00948 (105 reqs/sec) | Rendering: 0.00753 (79%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:35:56) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.07659 (13 reqs/sec) | Rendering: 0.07464 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-11 09:36:05) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00370 (270 reqs/sec) | Rendering: 0.00178 (48%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:37:04) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00966 (103 reqs/sec) | Rendering: 0.00775 (80%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 09:37:51) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDM1MjhmMDRlZDg3M2I2ZGNh
+YmU2Mjc5YjA0ZWQwZmM=--0bb685f84645786672667bb4403dca8298007fdd
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00437 (228 reqs/sec) | Rendering: 0.00249 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:20:54) [GET]
+  Session ID: 2e4cfcab09859d9fa62a4fcd2c729d8a
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.08938 (11 reqs/sec) | Rendering: 0.08637 (96%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:21:39) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00760 (131 reqs/sec) | Rendering: 0.00555 (73%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:22:29) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00883 (113 reqs/sec) | Rendering: 0.00621 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:23:16) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00763 (130 reqs/sec) | Rendering: 0.00522 (68%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:24:14) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00723 (138 reqs/sec) | Rendering: 0.00521 (72%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:25:03) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00833 (120 reqs/sec) | Rendering: 0.00617 (74%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:25:56) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00942 (106 reqs/sec) | Rendering: 0.00744 (79%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:26:31) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00764 (130 reqs/sec) | Rendering: 0.00570 (74%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:27:19) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.07561 (13 reqs/sec) | Rendering: 0.07372 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:30:06) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00785 (127 reqs/sec) | Rendering: 0.00580 (73%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:32:21) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.02401 (41 reqs/sec) | Rendering: 0.02052 (85%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:32:26) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00400 (250 reqs/sec) | Rendering: 0.00074 (18%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:34:29) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00465 (215 reqs/sec) | Rendering: 0.00268 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:34:33) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.17489 (5 reqs/sec) | Rendering: 0.00186 (1%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:35:29) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00481 (207 reqs/sec) | Rendering: 0.00275 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:35:31) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00539 (185 reqs/sec) | Rendering: 0.00153 (28%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:36:10) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00486 (205 reqs/sec) | Rendering: 0.00279 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:36:17) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"57", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"130", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.24786 (4 reqs/sec) | Rendering: 0.00239 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:37:00) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"57", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"130", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00475 (210 reqs/sec) | Rendering: 0.00128 (26%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:40:39) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00454 (220 reqs/sec) | Rendering: 0.00259 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:40:42) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00497 (201 reqs/sec) | Rendering: 0.00134 (26%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:44:02) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00466 (214 reqs/sec) | Rendering: 0.00131 (28%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:44:18) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00475 (210 reqs/sec) | Rendering: 0.00146 (30%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:46:45) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00456 (219 reqs/sec) | Rendering: 0.00261 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:46:47) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00452 (221 reqs/sec) | Rendering: 0.00119 (26%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-11 20:47:20) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"86646fb2936d96287c9825adf99c9b35dd83cd3f", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00507 (197 reqs/sec) | Rendering: 0.00081 (15%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-11 20:48:00) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00469 (213 reqs/sec) | Rendering: 0.00265 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-11 20:48:41) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODBmYmE3MWI5MmZmZTY4NzNk
+OGFkNmJiNDJlYWJiMTg=--8969958a6b5a1be8befcd8721fb733a708388125
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00852 (117 reqs/sec) | Rendering: 0.00547 (64%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 20:58:50) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.04924 (20 reqs/sec) | Rendering: 0.04707 (95%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:02:57) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.01095 (91 reqs/sec) | Rendering: 0.00893 (81%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:03:21) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00754 (132 reqs/sec) | Rendering: 0.00556 (73%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:03:52) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00767 (130 reqs/sec) | Rendering: 0.00567 (73%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:05:07) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00760 (131 reqs/sec) | Rendering: 0.00564 (74%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:07:00) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00784 (127 reqs/sec) | Rendering: 0.00582 (74%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:21:54) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.01782 (56 reqs/sec) | Rendering: 0.01418 (79%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:31:53) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00841 (118 reqs/sec) | Rendering: 0.00629 (74%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:33:38) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00442 (226 reqs/sec) | Rendering: 0.00249 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:33:42) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00561 (178 reqs/sec) | Rendering: 0.00361 (64%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:38:15) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.02458 (40 reqs/sec) | Rendering: 0.01178 (47%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:39:06) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00604 (165 reqs/sec) | Rendering: 0.00365 (60%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:46:08) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.03672 (27 reqs/sec) | Rendering: 0.01017 (27%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:46:39) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"submit"=>"midi_form", "url"=>{"action"=>"make_midi", "controller"=>"example"}, "action"=>"write_text", "controller"=>"example", "update"=>"midi_result"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.02180 (45 reqs/sec) | Rendering: 0.01522 (69%) | DB: 0.00000 (0%) | 200 OK [http://localhost/?submit=midi_form&update=midi_result&url%5Baction%5D=make_midi&url%5Bcontroller%5D=example]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:46:47) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"submit"=>"midi_form", "url"=>{"action"=>"make_midi", "controller"=>"example"}, "action"=>"write_text", "controller"=>"example", "update"=>"midi_result"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00529 (189 reqs/sec) | Rendering: 0.00281 (53%) | DB: 0.00000 (0%) | 200 OK [http://localhost/?submit=midi_form&update=midi_result&url%5Baction%5D=make_midi&url%5Bcontroller%5D=example]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:47:04) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"submit"=>"midi_form", "url"=>{"action"=>"make_midi", "controller"=>"example"}, "action"=>"write_text", "controller"=>"example", "update"=>"midi_result"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00534 (187 reqs/sec) | Rendering: 0.00329 (61%) | DB: 0.00000 (0%) | 200 OK [http://localhost/?submit=midi_form&update=midi_result&url%5Baction%5D=make_midi&url%5Bcontroller%5D=example]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:48:58) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"submit"=>"midi_form", "url"=>{"action"=>"make_midi", "controller"=>"example"}, "action"=>"write_text", "controller"=>"example", "update"=>"midi_result"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00451 (221 reqs/sec) | Rendering: 0.00260 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/?submit=midi_form&update=midi_result&url%5Baction%5D=make_midi&url%5Bcontroller%5D=example]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:49:00) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"submit"=>"midi_form", "url"=>{"action"=>"make_midi", "controller"=>"example"}, "action"=>"write_text", "controller"=>"example", "update"=>"midi_result"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00461 (216 reqs/sec) | Rendering: 0.00270 (58%) | DB: 0.00000 (0%) | 200 OK [http://localhost/?submit=midi_form&update=midi_result&url%5Baction%5D=make_midi&url%5Bcontroller%5D=example]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:49:25) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"submit"=>"midi_form", "url"=>{"action"=>"make_midi", "controller"=>"example"}, "action"=>"write_text", "controller"=>"example", "update"=>"midi_result"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00795 (125 reqs/sec) | Rendering: 0.00598 (75%) | DB: 0.00000 (0%) | 200 OK [http://localhost/?submit=midi_form&update=midi_result&url%5Baction%5D=make_midi&url%5Bcontroller%5D=example]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-14 21:49:27) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"4c0236165ed341d2727766f0ab5380d633149b1b", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.10410 (9 reqs/sec) | Rendering: 0.02865 (27%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-14 21:49:32) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"4c0236165ed341d2727766f0ab5380d633149b1b", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00560 (178 reqs/sec) | Rendering: 0.00080 (14%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-14 21:49:32) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"4c0236165ed341d2727766f0ab5380d633149b1b", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00409 (244 reqs/sec) | Rendering: 0.00074 (18%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:51:41) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"submit"=>"midi_form", "url"=>{"action"=>"make_midi", "controller"=>"example"}, "action"=>"write_text", "controller"=>"example", "update"=>"midi_result"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00768 (130 reqs/sec) | Rendering: 0.00572 (74%) | DB: 0.00000 (0%) | 200 OK [http://localhost/?submit=midi_form&update=midi_result&url%5Baction%5D=make_midi&url%5Bcontroller%5D=example]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 21:53:30) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.04224 (23 reqs/sec) | Rendering: 0.03951 (93%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 21:54:06) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00889 (112 reqs/sec) | Rendering: 0.00690 (77%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 21:54:55) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00592 (168 reqs/sec) | Rendering: 0.00387 (65%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 21:57:38) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00389 (257 reqs/sec) | Rendering: 0.00189 (48%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-14 21:57:52) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00508 (196 reqs/sec) | Rendering: 0.00301 (59%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-14 21:59:34) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00477 (209 reqs/sec) | Rendering: 0.00287 (60%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 21:59:36) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00893 (112 reqs/sec) | Rendering: 0.00694 (77%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 21:59:42) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00481 (207 reqs/sec) | Rendering: 0.00277 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:00:50) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00434 (230 reqs/sec) | Rendering: 0.00233 (53%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:01:52) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00956 (104 reqs/sec) | Rendering: 0.00749 (78%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:02:27) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00912 (109 reqs/sec) | Rendering: 0.00712 (78%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:02:31) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00380 (262 reqs/sec) | Rendering: 0.00188 (49%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:03:19) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.01005 (99 reqs/sec) | Rendering: 0.00811 (80%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:03:49) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.01019 (98 reqs/sec) | Rendering: 0.00823 (80%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:04:27) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00969 (103 reqs/sec) | Rendering: 0.00765 (79%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:05:11) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00838 (119 reqs/sec) | Rendering: 0.00639 (76%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:06:02) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00921 (108 reqs/sec) | Rendering: 0.00718 (78%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:06:36) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00825 (121 reqs/sec) | Rendering: 0.00622 (75%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:07:39) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00813 (122 reqs/sec) | Rendering: 0.00612 (75%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-14 22:09:07) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00461 (216 reqs/sec) | Rendering: 0.00259 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-14 22:13:07) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlODZkMzRkZjY3ZGNiYWNmYTRm
+NDA0MDViZGY2YTY1NzU=--73c97264f7a028f74a3f0f30efd4d98e4597b5e6
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00337 (296 reqs/sec) | Rendering: 0.00141 (41%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-15 12:32:26) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlZDkzZjE1ZTJlNTk5NGRhZjVm
+OWVhNzkxMTZjZDU3NTQ=--a5ff5ed06bd2f892e6643d425b44e9e2df9ce499
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.10423 (9 reqs/sec) | Rendering: 0.09856 (94%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 07:37:18) [GET]
+  Session ID: ddb777d08797ba2f2f82c76d72912023
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.10656 (9 reqs/sec) | Rendering: 0.10378 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 16:56:52) [GET]
+  Session ID: 9832ad5812c55323a60368e6670d17ed
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.09721 (10 reqs/sec) | Rendering: 0.09466 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 16:58:44) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00689 (145 reqs/sec) | Rendering: 0.00385 (55%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:00:13) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.07523 (13 reqs/sec) | Rendering: 0.00300 (3%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:01:00) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00506 (197 reqs/sec) | Rendering: 0.00296 (58%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:01:02) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00462 (216 reqs/sec) | Rendering: 0.00257 (55%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:01:03) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00467 (214 reqs/sec) | Rendering: 0.00263 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:02:06) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00637 (156 reqs/sec) | Rendering: 0.00444 (69%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:03:29) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00966 (103 reqs/sec) | Rendering: 0.00776 (80%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-17 17:03:40) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.11237 (8 reqs/sec) | Rendering: 0.03180 (28%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-17 17:03:44) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.02483 (40 reqs/sec) | Rendering: 0.02284 (91%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:03:48) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00454 (220 reqs/sec) | Rendering: 0.00255 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:05:21) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00490 (204 reqs/sec) | Rendering: 0.00278 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:05:23) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00536 (186 reqs/sec) | Rendering: 0.00346 (64%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-17 17:05:27) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00915 (109 reqs/sec) | Rendering: 0.00699 (76%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-17 17:05:29) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00470 (212 reqs/sec) | Rendering: 0.00277 (58%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-17 17:06:33) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00700 (142 reqs/sec) | Rendering: 0.00451 (64%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-17 17:06:36) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00380 (263 reqs/sec) | Rendering: 0.00180 (47%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-17 17:06:37) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00393 (254 reqs/sec) | Rendering: 0.00190 (48%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-17 17:06:40) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00379 (263 reqs/sec) | Rendering: 0.00181 (47%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:06:44) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00705 (141 reqs/sec) | Rendering: 0.00513 (72%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-17 17:08:10) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.00370 (270 reqs/sec) | Rendering: 0.00182 (49%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-17 17:08:13) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00411 (243 reqs/sec) | Rendering: 0.00196 (47%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-17 17:08:59) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.00467 (213 reqs/sec) | Rendering: 0.00264 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:11:09) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.03020 (33 reqs/sec) | Rendering: 0.02813 (93%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:12:19) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00704 (142 reqs/sec) | Rendering: 0.00497 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:13:48) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00671 (149 reqs/sec) | Rendering: 0.00479 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:15:58) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00458 (218 reqs/sec) | Rendering: 0.00261 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:16:00) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00447 (223 reqs/sec) | Rendering: 0.00254 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 17:21:29) [GET]
+  Session ID: e2b91ed60f2df004552c317f678953a6
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00458 (218 reqs/sec) | Rendering: 0.00262 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 18:02:42) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.63327 (1 reqs/sec) | Rendering: 0.61371 (96%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 18:04:35) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00482 (207 reqs/sec) | Rendering: 0.00271 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 18:05:04) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"This is the new Interface for my application", "instr"=>"67", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"120", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.02476 (40 reqs/sec) | Rendering: 0.01976 (79%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 18:07:16) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00835 (119 reqs/sec) | Rendering: 0.00615 (73%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 18:07:18) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00690 (144 reqs/sec) | Rendering: 0.00163 (23%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 18:08:44) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00879 (113 reqs/sec) | Rendering: 0.00684 (77%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 18:09:38) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNDVmYjZhZDk3YWFkNTZkZTI5
+NTAyYzg3YjFlYWY5Zjg=--bfe3d903917cdac06b7f253c2a318d1d802d74bc
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00479 (208 reqs/sec) | Rendering: 0.00279 (58%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:12:23) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.37463 (2 reqs/sec) | Rendering: 0.22409 (59%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:13:11) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00995 (100 reqs/sec) | Rendering: 0.00588 (59%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:13:29) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.05024 (19 reqs/sec) | Rendering: 0.03618 (72%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:14:55) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.02426 (41 reqs/sec) | Rendering: 0.01891 (77%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:15:52) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00581 (172 reqs/sec) | Rendering: 0.00326 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:16:11) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text hsdsdsmdnsndknsjns", "instr"=>"73", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"135", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00505 (198 reqs/sec) | Rendering: 0.00073 (14%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:18:07) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00448 (223 reqs/sec) | Rendering: 0.00256 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:18:09) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00454 (220 reqs/sec) | Rendering: 0.00127 (27%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:19:27) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00460 (217 reqs/sec) | Rendering: 0.00267 (58%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:19:29) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00391 (255 reqs/sec) | Rendering: 0.00072 (18%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:19:58) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00474 (210 reqs/sec) | Rendering: 0.00273 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:20:00) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00430 (232 reqs/sec) | Rendering: 0.00068 (15%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:21:29) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00491 (203 reqs/sec) | Rendering: 0.00297 (60%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:21:31) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00470 (212 reqs/sec) | Rendering: 0.00124 (26%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:22:00) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00450 (222 reqs/sec) | Rendering: 0.00258 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:22:03) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00448 (223 reqs/sec) | Rendering: 0.00124 (27%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:24:11) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00742 (134 reqs/sec) | Rendering: 0.00542 (73%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:24:13) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00448 (223 reqs/sec) | Rendering: 0.00122 (27%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:25:05) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00675 (148 reqs/sec) | Rendering: 0.00486 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:25:08) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00385 (259 reqs/sec) | Rendering: 0.00066 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:26:06) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00894 (111 reqs/sec) | Rendering: 0.00707 (79%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:26:09) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00400 (249 reqs/sec) | Rendering: 0.00072 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:26:47) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00695 (143 reqs/sec) | Rendering: 0.00498 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:26:50) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00396 (252 reqs/sec) | Rendering: 0.00069 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:27:28) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00687 (145 reqs/sec) | Rendering: 0.00486 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:27:32) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00396 (252 reqs/sec) | Rendering: 0.00075 (18%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:30:17) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00669 (149 reqs/sec) | Rendering: 0.00477 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:21) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00394 (254 reqs/sec) | Rendering: 0.00068 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:24) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00400 (249 reqs/sec) | Rendering: 0.00076 (18%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:26) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00377 (265 reqs/sec) | Rendering: 0.00064 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:27) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00379 (263 reqs/sec) | Rendering: 0.00065 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:27) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00399 (250 reqs/sec) | Rendering: 0.00072 (18%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:27) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00387 (258 reqs/sec) | Rendering: 0.00066 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:28) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00406 (246 reqs/sec) | Rendering: 0.00067 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:30:31) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00467 (214 reqs/sec) | Rendering: 0.00264 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:38) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"73", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"125", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.04142 (24 reqs/sec) | Rendering: 0.00109 (2%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:41) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"73", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"125", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00375 (267 reqs/sec) | Rendering: 0.00064 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:41) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"73", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"125", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00384 (260 reqs/sec) | Rendering: 0.00067 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:30:41) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"73", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"125", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00560 (178 reqs/sec) | Rendering: 0.00092 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:30:59) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00682 (146 reqs/sec) | Rendering: 0.00485 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:02) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.01032 (96 reqs/sec) | Rendering: 0.00133 (12%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:03) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00401 (249 reqs/sec) | Rendering: 0.00067 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:03) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00536 (186 reqs/sec) | Rendering: 0.00091 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:04) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00384 (260 reqs/sec) | Rendering: 0.00067 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:04) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00380 (263 reqs/sec) | Rendering: 0.00065 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:21) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00569 (175 reqs/sec) | Rendering: 0.00097 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:22) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00600 (166 reqs/sec) | Rendering: 0.00259 (43%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:31:23) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00679 (147 reqs/sec) | Rendering: 0.00477 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:31:25) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.08292 (12 reqs/sec) | Rendering: 0.00082 (0%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:33:21) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00675 (148 reqs/sec) | Rendering: 0.00381 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:33:23) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00392 (255 reqs/sec) | Rendering: 0.00065 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:34:02) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00671 (149 reqs/sec) | Rendering: 0.00481 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:34:04) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00394 (253 reqs/sec) | Rendering: 0.00067 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:34:18) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00522 (191 reqs/sec) | Rendering: 0.00277 (53%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:34:59) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00472 (212 reqs/sec) | Rendering: 0.00271 (57%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:35:54) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00949 (105 reqs/sec) | Rendering: 0.00727 (76%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:35:56) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00403 (247 reqs/sec) | Rendering: 0.00067 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:36:30) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00696 (143 reqs/sec) | Rendering: 0.00493 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:36:32) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00398 (251 reqs/sec) | Rendering: 0.00066 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:37:06) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.07942 (12 reqs/sec) | Rendering: 0.00516 (6%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:37:08) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00398 (251 reqs/sec) | Rendering: 0.00067 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:37:49) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00886 (112 reqs/sec) | Rendering: 0.00696 (78%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:37:51) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00382 (261 reqs/sec) | Rendering: 0.00066 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:38:28) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00702 (142 reqs/sec) | Rendering: 0.00494 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:39:15) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00674 (148 reqs/sec) | Rendering: 0.00480 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:39:17) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00450 (222 reqs/sec) | Rendering: 0.00256 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:39:39) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00663 (150 reqs/sec) | Rendering: 0.00471 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:40:40) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00694 (144 reqs/sec) | Rendering: 0.00478 (68%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:40:47) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00382 (261 reqs/sec) | Rendering: 0.00066 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:41:03) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00701 (142 reqs/sec) | Rendering: 0.00503 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:41:05) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00405 (247 reqs/sec) | Rendering: 0.00070 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:41:46) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00668 (149 reqs/sec) | Rendering: 0.00472 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:41:49) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00385 (259 reqs/sec) | Rendering: 0.00065 (17%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:42:20) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00684 (146 reqs/sec) | Rendering: 0.00492 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-17 21:42:24) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"74157a5df730530c641966085f1a878101da96fb", "action"=>"make_midi", "tempo"=>"140", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.00457 (218 reqs/sec) | Rendering: 0.00075 (16%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:43:26) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00678 (147 reqs/sec) | Rendering: 0.00483 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:44:14) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00652 (153 reqs/sec) | Rendering: 0.00460 (70%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-17 21:50:46) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00668 (149 reqs/sec) | Rendering: 0.00481 (71%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-02-17 21:50:52) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"video", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/video
+Completed in 0.00376 (266 reqs/sec) | Rendering: 0.00182 (48%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/video]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-02-17 21:53:22) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"video", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/video
+Completed in 0.00422 (236 reqs/sec) | Rendering: 0.00225 (53%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/video]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-02-17 21:55:06) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"video", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/video
+Completed in 0.00425 (235 reqs/sec) | Rendering: 0.00220 (51%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/video]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-02-17 21:55:42) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlMzcwYmE0NDkzNmVlNDNmOWI4
+YjEzOTM1ZThkNGQ5ZTg=--706054b8cb1cd365a70dbb7cc58e82fcaf0df156
+  Parameters: {"action"=>"video", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/video
+Completed in 0.00409 (244 reqs/sec) | Rendering: 0.00220 (53%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/video]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 08:37:38) [GET]
+  Session ID: d44080f1fcfc1fabd71eb45946ed84c5
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.11734 (8 reqs/sec) | Rendering: 0.11428 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-18 08:37:55) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.02711 (36 reqs/sec) | Rendering: 0.02420 (89%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-02-18 08:38:07) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"action"=>"video", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/video
+Completed in 0.01259 (79 reqs/sec) | Rendering: 0.01050 (83%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/video]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-18 08:38:27) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.02609 (38 reqs/sec) | Rendering: 0.02405 (92%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 08:38:34) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00659 (151 reqs/sec) | Rendering: 0.00366 (55%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-18 08:39:18) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"midi_text"=>"just  a test to make sure it works", "instr"=>"78", "authenticity_token"=>"205d5e47da8adace944518461ee9e59ee572017e", "action"=>"make_midi", "tempo"=>"145", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.06814 (14 reqs/sec) | Rendering: 0.02757 (40%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 08:40:19) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00446 (224 reqs/sec) | Rendering: 0.00244 (54%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 08:42:51) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00438 (228 reqs/sec) | Rendering: 0.00245 (56%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 08:46:52) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNTVhZmNlNmFmMGMzYzMyMDJm
+ZWYyODM1YmVhZWViMjY=--575bfe8102f205681da5e7eb3d6f5ff4984db439
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00964 (103 reqs/sec) | Rendering: 0.00756 (78%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:11:11) [GET]
+  Session ID: 46bc6ad81f43546aacb06134b707fd26
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.01619 (61 reqs/sec) | Rendering: 0.01316 (81%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:12:20) [GET]
+  Session ID: 0f66d564356803ab2e017aaa1e82ffe8
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00439 (228 reqs/sec) | Rendering: 0.00245 (55%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:13:42) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNGQzNzVjMGJmOGVhYmYwYTEx
+ZGRlYWQzMzQ4NzgwYzk=--e916d9da59b5e1b07f911d83c92c0a2548070667
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00435 (230 reqs/sec) | Rendering: 0.00243 (55%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:13:50) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNjMyYjE5YWMzMWI2YTJmMzQ3
+Y2NjNGZiMTNkMzAwNTY=--9671810372030b5cf5b178b8419888a0fefc4f94
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00444 (225 reqs/sec) | Rendering: 0.00243 (54%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:13:53) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNjMyYjE5YWMzMWI2YTJmMzQ3
+Y2NjNGZiMTNkMzAwNTY=--9671810372030b5cf5b178b8419888a0fefc4f94
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00414 (241 reqs/sec) | Rendering: 0.00228 (55%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:17:46) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNjMyYjE5YWMzMWI2YTJmMzQ3
+Y2NjNGZiMTNkMzAwNTY=--9671810372030b5cf5b178b8419888a0fefc4f94
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00643 (155 reqs/sec) | Rendering: 0.00447 (69%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:19:30) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNjMyYjE5YWMzMWI2YTJmMzQ3
+Y2NjNGZiMTNkMzAwNTY=--9671810372030b5cf5b178b8419888a0fefc4f94
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.00413 (241 reqs/sec) | Rendering: 0.00226 (54%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 10:58:44) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlNGQzNzVjMGJmOGVhYmYwYTEx
+ZGRlYWQzMzQ4NzgwYzk=--e916d9da59b5e1b07f911d83c92c0a2548070667
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.01056 (94 reqs/sec) | Rendering: 0.00859 (81%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-02-18 17:17:00) [GET]
+  Session ID: f4638f4d4314341e16b692b4894e8cb8
+  Parameters: {"action"=>"write_text", "controller"=>"example"}
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 0.10630 (9 reqs/sec) | Rendering: 0.10371 (97%) | DB: 0.00000 (0%) | 200 OK [http://localhost/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-02-18 17:19:01) [POST]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlY2Q2MGE5MzhhZDkyODhlZmI4
+MTg1Njg2NDk3YWYxM2Q=--6c185efabf5c30d2ae9ca04ac833d08d92884799
+  Parameters: {"midi_text"=>"put text here", "instr"=>"65", "authenticity_token"=>"b0993c1150fddda19a4be2c1195a84ae3cb213ad", "action"=>"make_midi", "tempo"=>"130", "controller"=>"example"}
+Rendering example/make_midi
+Completed in 0.05787 (17 reqs/sec) | Rendering: 0.02943 (50%) | DB: 0.00000 (0%) | 200 OK [http://localhost/example/make_midi]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-02-18 17:19:31) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlY2Q2MGE5MzhhZDkyODhlZmI4
+MTg1Njg2NDk3YWYxM2Q=--6c185efabf5c30d2ae9ca04ac833d08d92884799
+  Parameters: {"action"=>"theory", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 0.02834 (35 reqs/sec) | Rendering: 0.02546 (89%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/theory]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-02-18 17:19:33) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlY2Q2MGE5MzhhZDkyODhlZmI4
+MTg1Njg2NDk3YWYxM2Q=--6c185efabf5c30d2ae9ca04ac833d08d92884799
+  Parameters: {"action"=>"about", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/about
+Completed in 0.01859 (53 reqs/sec) | Rendering: 0.01660 (89%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/about]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-02-18 17:19:37) [GET]
+  Session ID: BAh7ByIKZmxhc2hJQzonQWN0aW9uQ29udHJvbGxlcjo6Rmxhc2g6OkZsYXNo
+SGFzaHsABjoKQHVzZWR7ADoMY3NyZl9pZCIlY2Q2MGE5MzhhZDkyODhlZmI4
+MTg1Njg2NDk3YWYxM2Q=--6c185efabf5c30d2ae9ca04ac833d08d92884799
+  Parameters: {"action"=>"video", "controller"=>"main"}
+Rendering template within layouts/application
+Rendering main/video
+Completed in 0.02281 (43 reqs/sec) | Rendering: 0.02084 (91%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/video]
