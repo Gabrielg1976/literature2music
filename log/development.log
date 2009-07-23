@@ -2763,3 +2763,183 @@ MTg1Njg2NDk3YWYxM2Q=--6c185efabf5c30d2ae9ca04ac833d08d92884799
 Rendering template within layouts/application
 Rendering main/video
 Completed in 0.02281 (43 reqs/sec) | Rendering: 0.02084 (91%) | DB: 0.00000 (0%) | 200 OK [http://localhost/main/video]
+
+
+Processing ActionController::Base#write_text (for 127.0.0.1 at 2009-07-22 19:16:51) [GET]
+
+NameError (uninitialized constant ApplicationController):
+  app/controllers/example_controller.rb:1
+
+Rendered rescues/_trace (32.7ms)
+Rendered rescues/_request_and_response (1.7ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-07-22 19:17:17) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 79ms (View: 77, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:17:18) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-07-22 19:17:20) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"qpZxy2zKs0+ozpJmfSxUhh5IMur9IhVq+Spg2DqeqGc=", "tempo"=>"140"}
+Rendering template within layouts/application
+Rendering example/make_midi
+Completed in 9ms (View: 5, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:17:32) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-07-22 19:17:38) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:17:38) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-07-22 19:17:47) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:17:47) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-07-22 19:17:49) [GET]
+Rendering template within layouts/application
+Rendering main/about
+Completed in 91ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/main/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:17:50) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-07-22 19:17:51) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 13ms (View: 10, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:17:51) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-07-22 19:18:00) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:18:01) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-07-22 19:18:08) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"41", "authenticity_token"=>"qpZxy2zKs0+ozpJmfSxUhh5IMur9IhVq+Spg2DqeqGc=", "tempo"=>"70"}
+Rendering template within layouts/application
+Rendering example/make_midi
+Completed in 6ms (View: 2, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:19:07) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-07-22 19:19:23) [POST]
+  Parameters: {"midi_text"=>"dose this convert into midi ", "instr"=>"0", "authenticity_token"=>"qpZxy2zKs0+ozpJmfSxUhh5IMur9IhVq+Spg2DqeqGc=", "tempo"=>"140"}
+Rendering template within layouts/application
+Rendering example/make_midi
+Completed in 7ms (View: 2, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-07-22 19:23:19) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:23:20) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-07-22 19:23:22) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"qpZxy2zKs0+ozpJmfSxUhh5IMur9IhVq+Spg2DqeqGc=", "tempo"=>"140"}
+Rendering template within layouts/application
+Rendering example/make_midi
+Completed in 9ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-07-22 19:25:06) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:25:06) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-07-22 19:29:55) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-07-22 19:29:55) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
