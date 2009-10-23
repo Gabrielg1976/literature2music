@@ -5,9 +5,11 @@ class ExampleController < ApplicationController
   end
   
   def make_midi
+    puts params.inspect
     if params[:midi_text]
        temp = params[:midi_text].to_midi(params[:tempo].to_i,params[:instr].to_i)
       @filename = temp.split("/").last
+      render :layout => false
     else
       render :text => "ERROR"
     end
