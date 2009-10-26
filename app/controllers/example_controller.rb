@@ -1,5 +1,6 @@
 class ExampleController < ApplicationController
   require 'super_midi'
+  require 'instruments'
   
   def write_text
   end

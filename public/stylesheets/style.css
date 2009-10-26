@@ -1,0 +1,236 @@
+/* Global reset from http://meyerweb.com/eric/tools/css/reset/ */
+
+/* v1.0 | 20080212 */
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, font, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	outline: 0;
+	font-size: 100%;
+	vertical-align: baseline;
+	background: transparent;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+
+/* remember to define focus styles! */
+:focus {
+	outline: 0;
+}
+
+/* remember to highlight inserts somehow! */
+ins {
+	text-decoration: none;
+}
+del {
+	text-decoration: line-through;
+}
+
+/* tables still need 'cellspacing="0"' in the markup */
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Start */
+
+html
+{
+	min-height: 100%;
+	height: 100%;
+}
+
+body
+{
+	background-color: #191966;
+	background-image: url('/images/body.png');
+	background-repeat: repeat-y;
+	background-position: top center;
+	min-height: 100%;
+	height: 100%;
+	font-family: "Helvetica", sans-serif;
+	font-size: 16px;
+	line-height: 1;
+}
+
+a       { color: #191966; text-decoration: underline; }
+a:hover { color: #CC6600; text-decoration: none; }
+
+h1, .h1 { font-size: 30px; margin: .67em 0; font-weight: bold;   text-align: center; }
+h2, .h2 { font-size: 20px; margin: .83em 0; font-weight: normal; text-align: left;   }
+
+p
+{
+	line-height: 1.2;
+	text-align: justify;
+	margin: 1.2em 0;
+}
+
+div.text-block > p             { text-indent: 3em; }
+div.text-block > p:first-child { text-indent: 0;   }
+
+h1 + p,
+h2 + p,
+h3 + p,
+h4 + p,
+h5 + p,
+h6 + p
+{
+	text-indent: 0;
+}
+
+table
+{
+	margin: 1em auto;
+}
+
+th,
+td
+{
+	font-weight: normal;
+	padding: 0.1em;
+}
+
+th { text-align: right; }
+td { text-align: left; }
+
+table.data
+{
+	border-collapse: collapse;
+	border-spacing: 0px
+}
+
+table.data th,
+table.data td
+{
+	border: #E0E0E0 1px solid;
+}
+
+table.data tr.odd  { background-color: #F2F2F2; }
+table.data tr.even { background-color: #F7F7F7; }
+
+th.anchor,
+td.anchor,
+tr.anchor > th,
+tr.anchor > td
+{
+	padding: 0;
+}
+
+th.anchor > a,
+td.anchor > a,
+tr.anchor > th > a,
+tr.anchor > td > a
+{
+	padding: 0.1em;
+	display: block;
+}
+
+body > div
+{
+	background-image: url('/images/body-div.png');
+	background-repeat: repeat-x;
+	background-position: top left;
+	min-height: 100%;
+	height: 100%;
+}
+
+body > div > div
+{
+	background-image: url('/images/body-div-div.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	min-height: 100%;
+	position: relative;
+}
+
+div#main
+{
+	width: 650px;
+	margin: 0 auto;
+	padding: 125px 0 92px 0;
+}
+
+div#main > div
+{
+	background-color: #FFFFFF;
+	position: relative;
+	z-index: 1;
+}
+
+div#main > div > *:first-child
+{
+	margin-top: 0;
+}
+
+div#footer
+{
+	background-image: url('/images/footer.png');
+	background-repeat: repeat-x;
+	background-position: top left;
+	color: #FFFFFF;
+	width: 100%;
+	height: 121px;
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	text-align: center;
+	font-size: 12px;
+}
+
+div#footer > div
+{
+	background-image: url('/images/footer-div.jpg');
+	background-repeat: no-repeat;
+	background-position: top center;
+	height: 100%;
+}
+
+div#footer > div > div
+{
+	padding-top: 70px;
+	line-height: 1.3;
+}
+
+div#footer > div > div > a
+{
+	color: #A0E0E0;
+}
+
+div.columns
+{
+	overflow: hidden;
+}
+
+div.column
+{
+	float: left;
+}
+
+div.columns.two   > div.column { width: 50%; }
+div.columns.three > div.column { width: 33%; }
+
+div.column       > div { padding: 0 0.25em 0 0.25em; }
+div.column.left  > div { padding: 0 0.25em 0 0;      }
+div.column.right > div { padding: 0 0      0 0.25em; }

@@ -1,18 +1,7 @@
-html, body, h1, h2, h3, h4, h5, h6, p, menu, ul, li, ol, cite, blockquote, pre {
-margin: 0;
-padding: 0;
-}
-
 body {
-border-color:none;
-width: 893px;
-padding: 0;
-margin: 0 auto;
-text-align: justify;
-background: #151515;
-font-family: Calibri, Tahoma, Arial;
-font-size: 14px;
-color: #FFF;
+color:#000;
+background-color:#ddd;
+
 }
 
 .handle { 
@@ -37,15 +26,7 @@ strong {
 color: #525252;
 }
 
-h1 {
-width:595px;
-height:5px;
-top-margin:20px;
-/* change this to the Rails Music Logo */
-background: url("/images/literature2music_logo.png")no-repeat #151515;
-padding: 120px 0 0 0px;
-font-size: 20px;
-}
+
 
 h1 em {
 color: #ff8000;
@@ -53,7 +34,6 @@ color: #ff8000;
 
 h2 {
 font-size: 24px;
-margin: 10px;
 }
 
 h2 a {
@@ -66,110 +46,18 @@ color: #FFF;
 }
 
 #player {
-float:right;
+
 overflow:hidden;	
 display:inline;	
 }
 
 #master {
+color:#000;
 width: 593px;
-float: right;
-background: #131313;
+background:white;
 display: inline;
 padding: 5px;
 margin-left: 30px;
 margin-bottom: 20px;
 }
 
-#menu {
-top-padding:5px;	
-width: 259px;
-float: right;
-overflow: hidden;
-display: inline;
-}
-
-h3 {
-padding: 10px 0 0 50px;
-width: 209px;
-height: 33px;
-background: url("/images/pozadi_nadpis_menu.jpg") no-repeat #000;
-font-size: 17px;
-color: #ff8000;
-}
-
-#menu ul {
-list-style: none;
-background: #131313;
-padding: 0 0 39px 0;
-background: url("/images/pozadi_menu.jpg") no-repeat bottom;
-margin-bottom: 25px;
-}
-
-#menu li {
-background: #131313;
-width: 259px;
-height: 38px;
-border-bottom: 1px solid #101010;
-}
-
-#menu li a {
-color: #FFF;
-width: 259px;
-height: 28px;
-text-decoration: none;
-background: url("/images/menu_li_a.jpg") no-repeat 7% 50%;
-display: block;
-padding: 10px 0 0 50px;
-}
-
-#menu li a:hover {
-background: url("/images/menu_li_a_hover.jpg") no-repeat 7% 50% #171717;
-color: #ff8000;
-}
-
-p {
-margin: 10px;
-}
-
-.popisek {
-color: #3d3d3d;
-border-bottom: 1px solid #232323;
-}
-
-.popisek a {
-color: #717171;
-}
-
-.popisek a:hover {
-text-decoration: none;
-color: #ff8000;
-}
-
-img {
-	
-}
-
-.img-left{ display: block; float: left;  margin: 0 5px 5px 0;}
-.img-right{ display: block;  float: right;  margin: 0 0 5px 5px;}
-.img-center{ display: block; margin: 10px auto;}
-
-.paticka-clanku {
-width: 565px;
-height: 20px;
-background: #0f0f0f;
-padding: 5px;
-text-align: center;
-color: #414141;
-}
-
-#paticka {
-width: 875px;
-height: 25px;
-background: #0f0f0f;
-clear: both;
-display: block;
-overflow: hidden;
-padding-top: 10px;
-padding-left: 10px;
-}

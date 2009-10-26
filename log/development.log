@@ -3229,3 +3229,1201 @@ Processing ExampleController#make_midi (for 127.0.0.1 at 2009-08-06 12:42:18) [P
   Parameters: {"midi_text"=>"Experimental music\nFrom Wikipedia, the free encyclopedia\nJump to: navigation, search\n\tThis article needs additional citations for verification.\nPlease help improve this article by adding reliable references. Unsourced material may be challenged and removed. (May 2008)\n\nExperimental music refers, in the English-language literature, to a compositional tradition which arose in the mid-twentieth century, particularly in North America, and whose most famous and influential exponent was John Cage (Grant 2003, 174). More loosely, the term is used to describe music within specific genres that pushes against their boundaries or definitions, or else whose approach is a hybrid of disparate styles, or incorporates unorthodox, new, distinctly unique ingredients (Anon. [n.d.]a).\nContents\n[hide]\n\n    * 1 Origin and some definitions of the term\n    * 2 History\n          o 2.1 Influential antecedents\n          o 2.2 New York School\n          o 2.3 Microtonal music\n          o 2.4 Musique concrète\n          o 2.5 Abortive critical term\n          o 2.6 Fluxus\n          o 2.7 Minimalism\n          o 2.8 Transethnicism\n          o 2.9 Free improvisation\n    * 3 Experimental and popular music\n          o 3.1 1960-1980\n                + 3.1.1 No Wave\n          o 3.2 1980-2000\n          o 3.3 2000-present\n    * 4 Experimental music festivals\n    * 5 Keywords\n    * 6 Common elements\n    * 7 See also\n    * 8 References\n    * 9 Further reading\n    * 10 External links\n\n[edit] Origin and some definitions of the term\n\nThe term was first introduced by composer John Cage in 1955. According to Cage's definition, \"an experimental action is one the outcome of which is not foreseen\" (Cage 1961, 39), and he was specifically interested in completed works that performed an unpredictable action (Mauceri 1997, 197). In Germany, the publication of Cage's article was anticipated by several months in a lecture delivered by Wolfgang Edward Rebner at the Darmstädter Ferienkurse on 13 August 1954, titled “Amerikanische Experimentalmusik\". Rebner's lecture extended the concept back in time to include Charles Ives, Edgard Varèse, and Henry Cowell, as well as Cage, due to their focus on sound as such rather than compositional method (Rebner 1997).\n\nA year earlier, the Groupe de Recherches de Musique Concrète (GRMC), under the leadership of Pierre Schaeffer, organized the First International Decade of Experimental Music between 8 and 18 June 1953. This appears to have been an attempt by Schaeffer to reverse the assimilation of musique concrète into the German elektronische Musik, and instead tried to subsume musique concrète, elektronische Musik, tape music, and world music under the rubric \"musique experimentale\" (Palombini 1993, 18). Unfortunately, publication of Schaeffer's manifesto (Schaeffer 1957) was delayed by four years, by which time Schaeffer was favoring the term \"recherce musicale\", though he never wholly abandoned \"musique expérimentale\" (Palombini 1993a, 19; Palombini 1993b, 557).\n\nMichael Nyman starts from Cage's definition (Nyman 1974, 1), and develops the term \"experimental\" also to describe the work of other American composers (Christian Wolff, Earle Brown, Meredith Monk, Malcolm Goldstein, Morton Feldman, Terry Riley, La Monte Young, Philip Glass, John Cale, Steve Reich, etc.), as well as composers such as Gavin Bryars, Toshi Ichiyanagi, Cornelius Cardew, John Tilbury, Frederic Rzewski, and Keith Rowe (Nyman 1974, 78–81, 93–115). Nyman opposes experimental music to the European avant-garde of the time (Boulez, Kagel, Xenakis, Birtwistle, Berio, Stockhausen, and Bussotti), for whom \"The identity of a composition is of paramount importance\" (Nyman 1974, 2 and 9). The word \"experimental\" in the former cases \"is apt, providing it is understood not as descriptive of an act to be later judged in terms of success or failure, but simply as of an act the outcome of which is unknown\" (Cage 1961, 13).\n\nDavid Cope also distinguishes between experimental and avant garde, describing experimental music as that \"which represents a refusal to accept the status quo\" (Cope, 1997, 222). David Nicholls, too, makes this distinction, saying that \"...very generally, avant-garde music can be viewed as occupying an extreme position within the tradition, while experimental music lies outside it\" (Nicholls 1998, 318). That tradition is the inheritance of common-practice Western art music, with its concern for increased technical complexity, historical inheritance, composer intention and other features.[citation needed] In general, and at least originally, experimental music took its inspiration from non-Western sources and from varying times.[citation needed] It may take its inspiration (directly in terms of generating systems) from other media; practitioners may or may not be professionals in the traditional sense of the word, although they may still be trained in their work and adept at it.[citation needed]\n\nWarren Burt cautions that, as \"a combination of leading-edge techniques and a certain exploratory attitude\", experimental music requires a broad and inclusive definition, \"a series of ands, if you will\", encompassing such areas as \"Cageian influences and work with low technology and improvisation and sound poetry and linguistics and new instrument building and multimedia and music theatre and work with high technology and community music, among others, when these activities are done with the aim of finding those musics 'we don't like, yet,' [citing Herbert Brün] in a 'problem-seeking environment' [citing Chris Mann]” (Burt 1991, 5).\n\nIn a recent dissertation, Benjamin Piekut argues that this \"consensus view of experimentalism\" is based on an a priori \"grouping\", rather than asking the question \"How have these composers been collected together in the first place, that they can now be the subject of a description?\" That is, most \"experimental music studies describes [sic] a category without really explaining it\" (Piekut 2008, 2–5). He finds laudable exceptions in the work of David Nicholls and, especially, Amy Beal (Piekut 2008, 5), and concludes from their work that \"The fundamental ontological shift that marks experimentalism as an achievement is that from representationalism to performativity\", so that \"an explanation of experimentalism that already assumes the category it purports to explain is an exercise in metaphysics, not ontology\" (Piekut 2008, 7).\n\nLeonard B. Meyer, on the other hand, includes under \"experimental music\" composers rejected by Nyman, such as Berio, Boulez, and Stockhausen, as well as the techniques of \"total serialism\" (Meyer 1994, 106–107 and 266), holding that \"there is no single, or even pre-eminent, experimental music, but rather a plethora of different methods and kinds\" (Meyer 1994, 237).\n\nWhile much discussion of experimental music centers on definitional issues and its validity as a musical form, the most frequently performed experimental music is entertaining and, at its best, can lead the listener to question core assumptions about the nature of music.[citation needed] In the late 1950s, Lejaren Hiller and L. M. Isaacson (1959) used the term in connection with computer-controlled composition, in the scientific sense of \"experiment\": making predictions for new compositions based on established musical technique (Mauceri 1997, 194–95). The term \"experimental music\" was used contemporaneously for electronic music, particularly in the early musique concrète work of Schaeffer and Henry in France (Vignal 2003, 298). There is a considerable overlap between Downtown music and what is more generally called experimental music, especially as that term was defined at length by composer Michael Nyman in his book Experimental Music: Cage and Beyond (1974, second edition 1999).\n\n[edit] History\n\n[edit] Influential antecedents\nLuigi Russolo with his assistant Ugo Piatti and their Intonarumori (noise machines)\n\nArtists: Luigi Russolo, Henry Cowell, Charles Ives, Edgard Varèse, Erik Satie, Pierre Schaeffer\n\tThis section requires expansion.\n\nA number of early twentieth-century American composers, seen as precedents to and influences on John Cage, are sometimes referred to as the \"American Experimental School\". These include Charles Ives, Charles and Ruth Crawford Seeger, Henry Cowell, Carl Ruggles, and John Becker (Nicholls 1990).\n\n[edit] New York School\n\nArtists: John Cage, Earle Brown, Christian Wolff, David Tudor, Related: Merce Cunningham\n\nJohn Cage began writing music in 1939, but it is for his work from the mid-40s on that has earned him his reputation as the father of American experimental music.[citation needed] Cage's earliest influential innovation was the Prepared piano, which completely altered the sonic possibilities of a grand piano (See: Sonatas and Interludes for Prepared Piano). In the same period Cage had reached the conclusion that since the only characteristic shared by all sounds (if total silence is included as a sound) was duration, the only logical compositional strategy was to determine a durational structure which would be filled in an indeterminent manner. Cage's \"4'33\",\" also known as \"the silent piece,\" demonstrated Cage's belief that all sounds are equally interesting, if you only listen to them with the same intent.[citation needed].\n\n[edit] Microtonal music\nMain article: Microtonal music\n\nHarry Partch as well as Ivor Darreg worked with other tuning scales based on the physical laws for harmonic music. This was called microtonal music.[citation needed] For this music they both developed a group of experimental musical instruments. The uses of microtonal pitches was, beyond being more harmonic than the Western equal tempered tuning,[vague] also a new way to experiment with unplanned, unexpected beating frequencies when playing tones, which colors the music in new ways.[citation needed] La Monte Young is known for using this technique when he began working on his minimal drone pieces which consisted of layers of sounds in different pitches. See also spectral music. This phenomenon[vague] was later adopted by Chatham and Branca, during the No Wave period.[citation needed]\n\n[edit] Musique concrète\nMain article: Musique concrète\n\nMusique concrète (French; literally, \"concrete music\"), is a form of electroacoustic music that utilises acousmatic sound as a compositional resource. The compositional material is not restricted to the inclusion of sonorities derived from musical instruments or voices, nor to elements traditionally thought of as 'musical' (melody, harmony, rhythm, metre and so on). The theoretical underpinnings of the aesthetic were developed by Pierre Schaeffer, beginning in the late 1940s.\n\n[edit] Abortive critical term\n\nIn the 1950s, the term \"experimental\" was often applied by conservative music critics—along with a number of other words, such as \"engineers art\", \"musical splitting of the atom\", \"alchemist's kitchen\", \"atonal\", and \"serial\"—as a deprecating jargon term, which must be regarded as \"abortive concepts\", since they did not \"grasp a subject\" (Metzger 1959, 21). This was an attempt to marginalize, and thereby dismiss various kinds of music that did not conform to established conventions (Mauceri 1997, 189). Starting in the 1960s, \"experimental music\" began to be used in America for almost the opposite purpose, in an attempt to establish an historical category to help legitimize a loosely identified group of radically innovative, \"outsider\" composers. Whatever success this might have had in academe, this attempt to construct a genre was as abortive as the meaningless namecalling noted by Metzger, since by the \"genre's\" own definition the work it includes is \"radically different and highly individualistic\" (Mauceri 1997, 190). It is therefore not a genre, but an open category, \"because any attempt to classify a phenomenon as unclassifiable and (often) elusive as experimental music must be partial\" (Nyman 1974, 5). Furthermore, the characteristic indeterminacy in performance \"guarantees that two versions of the same piece will have virtually no perceptible musical 'facts' in common\" (Nyman 1974, 9).\n\n[edit] Fluxus\n\nFor full article, see Fluxus\n\nArtists to be added: Nam June Paik, Charlotte Moorman\nFluxus was an artistic movement started in the 1960s, characterized by an increased theatricality and the use of mixed media. The beginning of Fluxus might be said[weasel words] to be George Brecht's conception of an event score. Event scores are written instructions that, when followed, enact a musical composition.[citation needed] One early example is a piece of LaMonte Young's that instructed the performer to \"draw a straight line and then follow it.\"[cite this quote] Another known musical aspect appearing in the Fluxus movement was the use of primal scream at performances, derived from the primal therapy. Yoko Ono used this technique of expression (Bateman [n.d.]).\n\n[edit] Minimalism\n\nFor main article see: Minimalist music\n\nIn the 1960s LaMonte Young became interested in drones of various types, especially those created by live performers, in part because the subtle changes that occurred within the overtone series could create melodies that would otherwise have gone unnoticed.[citation needed]\n\nSteve Reich, Philip Glass and, to a lesser degree, Terry Riley, all fall into the category of rhythmic minimalism, a minimalist approach with a steady, driving pulse.[citation needed] Riley's In C or Glass' Music in Fifths provide examples of such pieces. These works are highly repetitive, with many gradual changes.\n\n[edit] Transethnicism\n\nThe term \"experimental\" has sometimes been applied to the mixture of recognizable music genres, especially those identified with specific ethnic groups, as found for example in the music of Laurie Anderson, Chou Wen-chung, Steve Reich, Kevin Volans, Martin Scherzinger, Michael Blake, and Rüdiger Meyer (Blake 1999; Jaffe 1983; Lubet1999).\n\n[edit] Free improvisation\n\nFor main article see: Free improvisation\nFree improvisation or free music is improvised music without any rules beyond the taste or inclination of the musician(s) involved; in many cases the musicians make an active effort to avoid overt references to recognizable musical genres. The term is somewhat paradoxical, since it can be considered both as a technique (employed by any musician who wishes to disregard rigid genres and forms) and as a recognizable genre in its own right.\n\n[edit] Experimental and popular music\n\n[edit] 1960-1980\n\nIn 1963 Frank Zappa appeared in the Steve Allen Show where he did an experimental music piece called Playing Music on a Bycycle, a performance very similar to John Cage's Water Walk of 1960 in the I've Got a Secret show. Zappa later became mainly famous for his rock music, however this is one of the earliest examples which blurred the strict line between experimental music and experimental focused pop music.[citation needed] At the end of the 1960s pop groups like The Beach Boys and The Beatles began adding musical influences outside the common field of pop music of those days. Non-western music and musical instruments as well as ideas, concepts and techniques copied for traditional classical music as well as modern classical music. They experimented with all kinds of new recording techniques like reverse tape recording. Besides those mainstream artists also a group of underground artists like Velvet Underground, Pink Floyd, Frank Zappa, White Noise and The Residents began incorporating the experimental musical aspects of Varese, La Monte Young, Cage and the minimal music as well as adding new extended techniques like audio feedback, heavy uses and multiple combining of stomp boxes and other electronic sound effects. The Residents started in the seventies as an idiosyncratic musical group mixing all kinds of artistic genres like pop music, electronic music, experimental music with movies, comic books and performance art (Ankeny [n.d.]). Other pop musicians who made experimental music are Captain Beefheart, Brian Eno, Pere Ubu, Faust, Can, DNA, Robert Fripp, Diamanda Galás, Cabaret Voltaire. Throbbing Gristle experimented with electronic noise and cut-up techniques with short pieces of tape with recorded sound on it. Fred Frith as well as Keith Rowe began exploring new experimental possibilities with prepared guitars. In the seventies Chris Cutler began experimenting with an eclectic drum kit with all kinds of added sound possibilities acoustic as well as electric. The self-titled debut album of This Heat was recorded between February 1976 and September 1978, and haracterized by heavy use of tape manipulation and looping, combined with more traditional performance, to create dense, eerie, electronic soundscapes. Artists to be added: Boyd Rice\n\tThis section requires expansion.\n\n[edit] No Wave\nMain article: No Wave\n\nRhys Chatham and Glenn Branca composed multi guitar compositions in the late 1970s, based on the ideas of LaMonte Young (Chatham) and Harry Partch (Branca). Chatham worked for some time with LaMonte Young and afterwards mixed the experimental musical ideas with punk rock in his piece Guitar Trio. Lydia Lunch started incorporating spoken word with punk rock and Mars explored new sliding guitar techniques. Arto Lindsay neglected to use any kind of musical practise or theory to develop an idiosyncratic atonal playing technique. DNA and James Chance are other famous no wave artists. Change later on moved more up to Free improvisation. The No Wave movement was closely related to transgressive art and, just like Fluxus, often mixed performance art with music (Masters 2007). It is alternatively seen, however, as an avant-garde offshoot of 1970s punk, and a genre related to experimental rock (Anon. [n.d.]b).\n\n[edit] 1980-2000\nSpectrogram of Aphex Twin’s “Mathematical Equation” track from Windowlicker.\n\nTellus Audio Cassette Magazine started in 1983 releasing a magazine with added cassette tapes focusing broadly on experimental music from the past as well as from the present. Lee Ranaldo and Thurston Moore experimented heavily with altered tunings and playing with a third bridge technique with screwdrivers jammed between the strings and the neck. Non rock-related acts, such as Aphex Twin, have explored new experimental techniques like placing pictures in spectrograms and returning them to audio signals. Also Aphex Twin as well as Jim O'Rourke experimented with circuit bending to create new experimental music. Closely related to the circuit bending is the musical genre EAI of which Merzbow is the most famous artist. He worked with series of radios all positioned differently for receiving different FM and AM frequencies and making new experimental musical compositions with all these derived sound signals.\n\nArtists to be added: Zeena Parkins, Elliott Sharp, Ikue Mori, Nels Cline, Tom Cora, The Music Tapes\n\tThis section requires expansion.\n\n[edit] 2000-present\n\nThe band Neptune built a series of self-designeds among which a microtonal 13-TET guitar (Hasse 2007) to create new sounds, and have released their fourth or fifth CD, but the first on the Table of the Elements’ Radium imprint label (Crumsho 2008). These Are Powers modified their bass guitar and drum kit into unusual instruments to explore unexpected soundtextures based on the changed musical scale of the bass guitar.[citation needed] Because the fretboard isn't representing the 12TET anymore because of the preparation, the chord combinations and tone progressions form an altered microtonal spectrum. Likewise Micachu alters her instruments with shortening bridges to create a different, more random, microtonal tonal palette.[citation needed] She also makes other instruments herself, but is reluctant to describe her work as anything but \"pop music, … maybe experimental pop\" (Parkin 2008).\n\tThis section requires expansion.\n\n[edit] Experimental music festivals\n\n    * Bang on a Can, yearly festival in New York City, New York since 1987.\n    * No Fun Fest, yearly festival in Brooklyn, New York since 2004.\n    * Sonic Circuits Festival, yearly festival in Washington, DC since 2002.\n    * Futuresonic, yearly festival in Manchester, United Kingdom since 1995.\n    * High Zero, yearly festival in Baltimore, Maryland since 1999.\n\n\tThis section requires expansion.\n\n[edit] Keywords\n\nAleatoric music - A term coined by Werner Meyer-Eppler and used by Boulez and other composers of the avant-garde (in Europe) to refer to a strictly limited form of indeterminacy, also called \"controlled chance\". As this distinction was misunderstood, the term is often (and somewhat inaccurately) used interchangeably with, or in place of, \"indeterminacy\".\n\nGraphic notation - Music which is written in the form of diagrams or drawings rather than using “conventional” notation (with staves, clefs, notes, etc).\n\nIndeterminate music - Related to 'chance music' (one of Cage's terms). Music in which the composer introduces the elements of chance or unpredictability with regard to either the composition or its performance. This term is used by experimental composers, performers and scholars working in experimental music in the United States, Britain, and in other countries influenced by Cagean aesthetics.\n\nLiteralism - Music that rejects the aesthetic as motivating force for the creation and pursuit of sound, using either the basic building blocks of orchestral composition (strict literalism) or sounds present at the site of performance (direct literalism) instead.\n\nMicrotones - A pitch interval that is smaller than a semitone. This includes quarter tones and intervals even smaller. Composers have, for example, divided the octave into 22, 31, 43, 53, 72, etc. microtones, either equally or unequally, and then used this scale as a basis for composition.\n\n[edit] Common elements\n\nSome of the more common techniques include:\n\n    * Extended techniques: Any of a number of methods of performing with voice or a musical instrument that are unique, innovative, and sometimes regarded as improper.\n\n        * \"Prepared\" instruments—ordinary instruments modified in their tuning or sound-producing characteristics. For example, guitar strings can have a weight attached at a certain point, changing their harmonic characteristics (Keith Rowe is one musician to have experimented with such prepared guitar techniques). Cage's prepared piano was one of the first such instruments. A different form is not hanging objects on the strings, but divide the string in two with a third bridge and play the inverse side, causing resonating bell-like harmonic tones at the pick-up side.\n        * Unconventional playing techniques—for example, strings on a piano can be manipulated directly instead of being played the orthodox, keyboard-based way (an innovation of Henry Cowell's known as \"string piano\"), a dozen or more piano keys may be depressed simultaneously with the forearm to produce a tone cluster (another technique popularized by Cowell), or the tuning pegs on a guitar can be rotated while a note sounds (called a \"tuner glissando\").\n        * Extended vocal techniques — any vocalized sounds that are not normally utiliized in classical or popular music, such as moaning, howling, screaming, death growls, or making a clicking noise. Artists such as Meredith Monk. Some bands are also known to sing in falsetto(the fall of troy).[citation needed]\n\n    * Incorporation of instruments, tunings, rhythms or scales from non-Western musical traditions.\n    * Use of sound sources other than conventional musical instruments such as trash cans, telephone ringers, and doors slamming.\n    * Playing with deliberate disregard for the ordinary musical controls (pitch, duration, volume).\n    * Use of graphic notation, non-conventional written/graphic 'instructions' actively interpreted by the performer(s). John Cage is credited with the original development of the radical score,[citation needed] and this influence continued through other composers/artists such as La Monte Young, George Brecht, George Crumb, Annea Lockwood, Yoko Ono, Krzysztof Penderecki and beyond.\n    * Creating experimental musical instruments for enhancing the timbre of compositions and exploring new techniques or possibilities. Artists such as Harry Partch, Luigi Russolo, Bradford Reed, Iner Souster, Neptune, Hans Reichel.\n\n[edit] See also\n\n    * List of experimental musicians\n    * Avant-garde music\n    * Biomusic\n    * Circuit Bending\n    * Computer music\n    * Contemporary music\n    * Danger music\n    * Downtown music\n    * Electroacoustic music\n    * Electronic art music\n    * Free improvisation\n    * NIME\n\n[edit] References\n\n    * Ankeny, Jason. [n.d.] \"The Residents: Biography\". Allmusic.com.\n    * Anon. [n.d.]a. \"Explore Music ... Explore by ... /Avant-Garde//Experimental: Genre\". Allmusic.com.\n    * Anon. [n.d.]b. \"Explore Music ... Explore by ... /Pop/Rock/Punk/New Wave/No Wave\". Allmusic.com.\n    * Bateman, Shahbeila. [n.d.]. \"Biography of Yoko Ono\". Website of Hugh McCarney, Communication Department, Western Connecticut University. (Accessed 15 February 2009)\n    * Beal, Amy C. 2006. New Music, New Allies: American Experimental Music in West Germany from the Zero Hour to Reunification. Berkeley: University of California Press. ISBN 0520247558\n    * Blake, Michael. 1999. \"The Emergence of a South African Experimental Aesthetic\". In Proceedings of the 25th Annual Congress of the Musicological Society of Southern Africa, edited by Izak J. Grové. Pretoria: Musicological Society of Southern Africa.\n    * Burt, Warren. 1991. \"Australian Experimental Music 1963–1990\". Leonardo Music Journal 1, no. 1:5–10.\n    * Cage, John. 1961. Silence: Lectures and Writings. Middletown, Connecticut: Wesleyan University Press. Unaltered reprints: Weslyan University press, 1966 (pbk), 1967 (cloth), 1973 (pbk [\"First Wesleyan paperback edition\"], 1975 (unknown binding); Cambridge, Mass: MIT Press, 1966, 1967, 1969, 1970, 1971; London: Calder & Boyars, 1968, 1971, 1973 ISBN 0714505269 (cloth) ISBN 0714510432 (pbk). London: Marion Boyars, 1986, 1999 ISBN 0714510432 (pbk); [n.p.]: Reprint Services Corporation, 1988 (cloth) ISBN 9991178015 [In particular the essays \"Experimental Music\", pp. 7–12, and \"Experimental Music: Doctrine\", pp. 13–17.]\n    * Cope, David. 1997. Techniques of the Contemporary Composer. New York, New York: Schirmer Books. ISBN 0-02-864737-8.\n    * Crumsho, Michael. 2008. \"Dusted Reviews: Neptune—Gong Lake\" Dusted Magazine 2008 (February 19).\n    * Grant, Morag Josephine. 2003. \"Experimental Music Semiotics\". International Review of the Aesthetics and Sociology of Music 34, no. 2 (December): 173–91.\n    * Hasse, Gretchen. 2007. \"Heavy Metal Is Just That for the Heavy-Lifting Jason Sanford of Neptune\". Gearwire.com (5 December).\n    * Hiller, Lejaren, and L. M. Isaacson. 1959. Experimental Music: Composition with an Electronic Computer. New York: McGraw-Hill Book Company.\n    * Jaffe, Lee David. 1983. \"The Last Days of the Avant Garde; or How to Tell Your Glass from Your Eno\". Drexel Library Quarterly 19, no. 1 (Winter): 105–22.\n    * Lubet, Alex. 1999. \"Indeterminate Origins: A Cultural theory of American Experimental Music\". In Perspectives on American music since 1950, edited by , James R. Heintze. New York, NY: General Music Publishing Co. ISBN 0815321449* Masters, Marc. 2007. No Wave. London: Black Dog Publishing. ISBN 978-1-906155-02-5\n    * Mauceri, Frank X. 1997. \"From Experimental Music to Musical Experiment\". Perspectives of New Music 35, no. 1 (Winter): 187-204.\n    * Metzger, Heinz-Klaus. 1959. \"Abortive Concepts in the Theory and Criticism of Music\", translated by Leo Black. Die Reihe 5: \"Reports, Analysis\" (English edition): 21–29)\n    * Meyer, Leonard B. 1994. Music, the Arts, and Ideas: Patterns and Predictions in Twentieth-Century Culture. Second edition. Chicago: University of Chicago Press. ISBN 0-226-52143-5\n    * Nicholls, David. 1990. American Experimental Music, 1890–1940. New York, NY: Cambridge University Press. ISBN 0521345782\n    * Nicholls, David. 1998. \"Avant-garde and Experimental Music.\" In Cambridge History of American Music. Cambridge and New York: Cambridge University Press. ISBN 0521454298\n    * Nyman, Michael. 1974. Experimental Music: Cage and Beyond. London: Studio Vista, ISBN 0-289-70182-1, New York: Schirmer Books, ISBN 0028712005. Second edition, Cambridge & New York: Cambridge University Press, 1999. ISBN 0521652979\n    * Palombini, Carlos. 1993a. \"Machine Songs V: Pierre Schaeffer: From Research into Noises to Experimental Music\". Computer Music Journal, 17, No. 3 (Autumn): 14–19.\n    * Palombini, Carlos. 1993b. \"Pierre Schaeffer, 1953: Towards an Experimental Music\". Music and Letters 74, no. 4 (November): 542–57.\n    * Parkin, Chris. 2008. \"Micachu: Interview\". Time Out London (Februry 26).\n    * Piekut, Benjamin. 2008. \"Testing, Testing …: New York Experimentalism 1964\". Ph.D. diss. New York: Columbia University.\n    * Rebner, Wolfgang Edward. 1997. \"Amerikanische Experimentalmusik\". In Im Zenit der Moderne: Geschichte und Dokumentation in vier Bänden—Die Internationalen Ferienkurse für Neue Musik Darmstadt, 1946-1966. Rombach Wissenschaften: Reihe Musicae 2, 4 vols., edited by Gianmario Borio and Hermann Danuser, 3:178–89. Freiburg im Breisgau: Rombach.\n    * Schaeffer, Pierre. 1957. \"Vers une musique experimentale\". La revue musicale no. 236 (Vers une musique experimentale), edited by Pierre Schaeffer, 18–23. Paris: Richard-Masse.\n    * Vignal, Marc (ed.). 2003. \"Expérimentale (musique)\". In Dictionnaire de la Musique, Paris: Larousse. (ISBN 2035113547)\n\n[edit] Further reading\n\n    * Ballantine, Christopher. 1977. \"Towards an Aesthetic of Experimental Music\". The Musical Quarterly 63, no. 2 (April): 224–46.\n    * Benitez, Joaquim M. 1978. \"Avant-Garde or Experimental? Classifying Contemporary Music\". International Review of the Aesthetics and Sociology of Music 9, no. 1 (June): 53–77.\n    * Broyles, Michael. 2004. Mavericks and Other Traditions in American Music. New Haven: Yale University Press.\n    * Cameron, Catherine. 1996. Dialectics in the Arts: The Rise of Experimentalism in American Music. Westport, Conn.: Praeger.\n    * Gann, Kyle, 2000. MUSIC; Electronic Music, Always Current, New York Times, July 9, 2000.\n    * Gann, Kyle, 2000. It's Sound, It's Art, and Some Call It Music, New York Times, January 9, 2000.\n    * Bailey, Derek. 1980. \"Musical Improvisation: Its Nature and Practice in Music\". Englewood Cliffs, N.J.: Prentice-Hall; Ashbourne: Moorland. ISBN 0136070442. Second edition, London: British Library National Sound Archive, 1992. ISBN 0712305068\n    * Experimental musical instruments (magazine). 1985–1999. A periodical (no longer published) devoted to experimental music and instruments.\n    * Gligo, Nikša. 1989. \"Die musikalische Avantgarde als ahistorische Utopie: Die gescheiterten Implikationen der experimentellen Musik\". Acta Musicologica 61, no. 2 (May-Aug): 217–37.\n    * Holmes, Thomas B. 2008. Electronic and Experimental Music: Pioneers in Technology and Composition. Third edition. London and New York: Routledge. ISBN 9780415957816 (hbk.) ISBN 9780415957823 (pbk.)\n    * Lucier, Alvin. 2002. \"An einem hellen Tag: Avantgarde und Experiment\", trans. Gisela Gronemeyer MusikTexte: Zeitschrift für Neue Musik, no. 92 (February), pp. 13–14.\n    * Saunders, James. 2009. The Ashgate Research Companion to Experimental Music. Aldershot, Hants, and Burlington, VT: Ashgate. ISBN 978-0-7546-6282-2\n    * Shultis, Christopher. 1998. Silencing the Sounded Self: John Cage and the American Experimental Tradition. Boston: Northeastern University Press. ISBN 1555533779\n    * Smith Brindle, Reginald. 1987. The New Music: The Avant-Garde Since 1945, second edition. Oxford and New York: Oxford University Press. ISBN 0-19-315471-4 (cloth) ISBN 0193154684 (pbk.)\n    * Sutherland, Roger, 1994. New Perspectives in Music. London: Sun Tavern Fields. ISBN 0-951-7012-6-6\n\n[edit] External links\n\n    * Experimental Music Catalogue: The publishing of American and British experimental music scores and recordings since 1969. This site sponsors the Journal of Experimental Music Studies (JEMS), a peer-reviewed online journal devoted to experimental music.\n    * The Sound Projector: The Sound Projector music magazine and radio show\n    * ADDLIMB Organization\n    * Feza Neverd: Original experimental music recordings.\n    * WeirdMusic.net: E-zine Dedicated to Weird Experimental Music]\n    * web archive of experimental music at Tellus Audio Cassette Magazine\n    * Experiments in Synthetic Audio: Community project of experimental music and sound\n    * Avant Garde Blog and Forum\n\nRetrieved from \"http://en.wikipedia.org/wiki/Experimental_music\"\nCategories: Experimental music | Sound", "instr"=>"14", "authenticity_token"=>"qOUJUY7RTVSYjlgWsIzawovaatUOJWTXZF7xbkKexo0=", "tempo"=>"125"}
 Rendering example/make_midi
 Completed in 4909ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+  [4;36;1mSQL (0.4ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (12.9ms)[0m   [0mselect sqlite_version(*)[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+  [4;35;1mSQL (0.1ms)[0m   [0mSELECT version FROM schema_migrations[0m
+  [4;36;1mSQL (0.2ms)[0m   [0;1m SELECT name
+ FROM sqlite_master
+ WHERE type = 'table' AND NOT name = 'sqlite_sequence'
+[0m
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:37:42) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 116ms (View: 114, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-22 21:37:42) [GET]
+
+ActionController::RoutingError (No route matches "/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:37:54) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-22 21:37:54) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/literature2music_logo.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:38:46) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:39:19) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-22 21:39:28) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"tZ2HyObLom8uVHpEDgGGRJvtPaQkJt3sCTHhufgtvMs=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 389ms (View: 385, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:40:05) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:41:57) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 73ms (View: 72, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:42:52) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:43:41) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:44:03) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:44:23) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:44:55) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:45:41) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:46:08) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:47:13) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-22 21:48:03) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"tZ2HyObLom8uVHpEDgGGRJvtPaQkJt3sCTHhufgtvMs=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:48:46) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 68ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-22 21:48:49) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"tZ2HyObLom8uVHpEDgGGRJvtPaQkJt3sCTHhufgtvMs=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-10-22 21:50:39) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 53ms (View: 51, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-10-22 21:51:05) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-10-22 21:51:33) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-10-22 21:51:58) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-10-22 21:52:50) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:52:57) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:55:24) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:56:04) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:56:21) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 21:56:46) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-22 21:57:01) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 12ms (View: 10, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-22 21:58:48) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-22 21:59:26) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-22 21:59:55) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-22 21:59:59) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-22 22:00:21) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 4ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:01:07) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:05:01) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 14ms (View: 12, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-22 22:07:12) [POST]
+  Parameters: {"midi_text"=>"this site is finally alive again", "instr"=>"1", "authenticity_token"=>"tZ2HyObLom8uVHpEDgGGRJvtPaQkJt3sCTHhufgtvMs=", "tempo"=>"40"}
+Rendering example/make_midi
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:08:37) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:09:03) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 77ms (View: 75, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:09:29) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 17ms (View: 15, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:09:47) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:10:09) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:10:57) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:12:54) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 69ms (View: 68, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-22 22:12:54) [GET]
+
+ActionController::RoutingError (No route matches "/images/images/rails.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:13:08) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:13:43) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:13:59) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:14:27) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:15:08) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:15:28) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-22 22:15:32) [POST]
+  Parameters: {"midi_text"=>"this site is finally alive again", "instr"=>"50", "authenticity_token"=>"tZ2HyObLom8uVHpEDgGGRJvtPaQkJt3sCTHhufgtvMs=", "tempo"=>"50"}
+Rendering example/make_midi
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:17:14) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:17:30) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 73ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:19:03) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:19:16) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:20:46) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:22:57) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 71ms (View: 69, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:23:22) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:23:56) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:24:17) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:24:52) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:25:40) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:26:22) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-22 22:27:14) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-22 22:27:52) [POST]
+  Parameters: {"midi_text"=>"this site is finally alive again", "instr"=>"48", "authenticity_token"=>"tZ2HyObLom8uVHpEDgGGRJvtPaQkJt3sCTHhufgtvMs=", "tempo"=>"100"}
+Rendering example/make_midi
+Completed in 6ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:41:24) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 110ms (View: 108, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:41:41) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:41:42) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/body.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:41:42) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/footer.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:43:12) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:43:12) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/body.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:43:12) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/images/footer.png" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:44:16) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:46:41) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:49:29) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:50:59) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:51:38) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:51:55) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:52:18) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:52:36) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:52:44) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:52:44) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:52:44) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 74ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:53:16) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:56:03) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:56:03) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:57:42) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:57:42) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:58:13) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:58:13) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:58:47) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:58:47) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 19:59:26) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 19:59:26) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 20:00:40) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:00:40) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:00:44) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:00:44) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:01:38) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:01:38) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 20:01:41) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:01:41) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 20:02:13) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:02:13) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 20:02:33) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:02:34) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 20:02:48) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:02:48) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-23 20:03:00) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"vdhxNme9oA3UCnfixH64GfDjZQPgeGAHbuXMtpHWn78=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 20:03:30) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:03:31) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-23 20:03:33) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"vdhxNme9oA3UCnfixH64GfDjZQPgeGAHbuXMtpHWn78=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-23 20:04:27) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:04:27) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-23 20:04:48) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"1", "authenticity_token"=>"vdhxNme9oA3UCnfixH64GfDjZQPgeGAHbuXMtpHWn78=", "tempo"=>"200"}
+Rendering example/make_midi
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-10-23 20:05:00) [GET]
+Rendering template within layouts/application
+Rendering main/about
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://0.0.0.0/main/about]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:05:00) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-10-23 20:05:04) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 392ms (View: 390, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:05:04) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:05:10) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 4ms (View: 2, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:05:10) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:05:59) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 13ms (View: 11, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:05:59) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:06:49) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:06:49) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:07:07) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:07:07) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:07:11) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:07:11) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-23 20:07:47) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-23 20:07:47) [GET]
+
+ActionController::RoutingError (No route matches "/main/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-24 21:47:56) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 127ms (View: 125, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-24 21:47:57) [GET]
+
+ActionController::RoutingError (No route matches "/style.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-24 21:49:01) [POST]
+  Parameters: {"midi_text"=>"This is a new Music Track composed to create a techno mix of experimental noise and Electro beats...", "instr"=>"0", "authenticity_token"=>"t/GndBRijaJMv5DY+pE5UalqCA+iO4sSm/7NezYLPR0=", "tempo"=>"200"}
+Rendering example/make_midi
+Completed in 26ms (View: 15, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-24 21:50:29) [POST]
+  Parameters: {"midi_text"=>"   \t  When I am an old woman I shall wear purple\nWith a red hat which doesn't go, and doesn't suit me.\nAnd I shall spend my pension on brandy and summer gloves\nAnd satin sandals\n, and say we've no money for butter.\nI shall sit down on the pavement when I'm tired\nAnd gobble up samples in shops and press alarm bells\nAnd run my stick along the public railings\nAnd make up for the sobriety of my youth.\nI shall go out in my slippers in the rain\nAnd pick flowers in other people's gardens\nAnd learn to spit.\n\nYou can wear terrible shirts and grow more fat\nAnd eat three pounds of sausages at a go\nOr only bread and pickle for a week\nAnd hoard pens and pencils and beermats and things in boxes.\n\nBut now we must have clothes that keep us dry\nAnd pay our rent and not swear in the street\nAnd set a good example for the children.\nWe must have friends to dinner and read the papers.\n\nBut maybe I ought to practice a little now?\nSo people who know me are not too shocked and surprised\nWhen suddenly I am old, and start to wear purple. ", "instr"=>"0", "authenticity_token"=>"t/GndBRijaJMv5DY+pE5UalqCA+iO4sSm/7NezYLPR0=", "tempo"=>"200"}
+Rendering example/make_midi
+Completed in 87ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:39:46) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 83ms (View: 81, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:42:27) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:42:46) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:43:00) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:43:03) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:43:59) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:44:28) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 69ms (View: 68, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:44:39) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:45:20) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:46:16) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:47:12) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-25 09:47:16) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"lFLC6gE+uTMcez1bbLTEeS7IXufPXk4LQ7F4Erapfj8=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 7ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-25 09:47:43) [POST]
+  Parameters: {"midi_text"=>"this is a new song ", "instr"=>"34", "authenticity_token"=>"lFLC6gE+uTMcez1bbLTEeS7IXufPXk4LQ7F4Erapfj8=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:48:09) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:48:33) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing MainController#theory (for 127.0.0.1 at 2009-10-25 09:48:44) [GET]
+Rendering template within layouts/application
+Rendering main/theory
+Completed in 26ms (View: 25, DB: 0) | 200 OK [http://0.0.0.0/main/theory]
+
+
+Processing MainController#video (for 127.0.0.1 at 2009-10-25 09:48:52) [GET]
+Rendering template within layouts/application
+Rendering main/video
+Completed in 388ms (View: 387, DB: 0) | 200 OK [http://0.0.0.0/main/video]
+
+
+Processing MainController#about (for 127.0.0.1 at 2009-10-25 09:48:54) [GET]
+Rendering template within layouts/application
+Rendering main/about
+Completed in 393ms (View: 391, DB: 0) | 200 OK [http://0.0.0.0/main/about]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:48:58) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:49:49) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 09:50:17) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:32:16) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 39ms (View: 38, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:34:01) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:34:16) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:34:27) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:35:38) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:36:29) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:36:40) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 11ms (View: 9, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:38:46) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 67ms (View: 65, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:39:04) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:39:17) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:39:20) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:39:40) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:39:49) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:39:58) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:40:59) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 19:41:47) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:22:59) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:33:35) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+
+ActionView::TemplateError (undefined local variable or method `instruments' for #<ActionView::Base:0x22a58f8>) on line #6 of app/views/example/write_text.html.erb:
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%= text_field_tag 'tempo', 140 %><br/><br/>
+6: Instrument:<br/> <%= text_field_tag 'instr', rand(instruments[instruments.size]) %>
+7: </div>
+8: <h3><%= link_to_remote("Generate Music", :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') %></h3>
+9: </center>
+
+    app/views/example/write_text.html.erb:6
+
+Rendered rescues/_trace (41.9ms)
+Rendered rescues/_request_and_response (20.0ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:34:13) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:34:33) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 74ms (View: 73, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:34:41) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-25 20:34:48) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"23", "authenticity_token"=>"lFLC6gE+uTMcez1bbLTEeS7IXufPXk4LQ7F4Erapfj8=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 384ms (View: 381, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-25 20:35:02) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"88", "authenticity_token"=>"lFLC6gE+uTMcez1bbLTEeS7IXufPXk4LQ7F4Erapfj8=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 5ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:35:19) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-25 20:35:36) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"lFLC6gE+uTMcez1bbLTEeS7IXufPXk4LQ7F4Erapfj8=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 4ms (View: 1, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:47:05) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://0.0.0.0/]
