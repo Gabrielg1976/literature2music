@@ -4427,3 +4427,1015 @@ Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-25 20:47:05) [
 Rendering template within layouts/application
 Rendering example/write_text
 Completed in 15ms (View: 13, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 12:02:26) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 78ms (View: 77, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-26 12:03:49) [POST]
+  Parameters: {"midi_text"=>"this still converts text into a midi file ", "instr"=>"0", "authenticity_token"=>"faG+FrBVEbOoKuO8sTW/LJz2JzaP1Ly0ChkNQV1HC2g=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 10ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:17:51) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 154ms (View: 152, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-26 20:18:18) [POST]
+  Parameters: {"midi_text"=>"this is a new song with a letter for tempo", "instr"=>"0", "authenticity_token"=>"d4FkdDC9Wq1DCTN33ZPj051lN7SFRkAIXW/UtLo8Eyc=", "tempo"=>"cat"}
+
+ZeroDivisionError (divided by 0):
+  midilib (1.2.0) [v] lib/midilib/event.rb:544:in `/'
+  midilib (1.2.0) [v] lib/midilib/event.rb:544:in `bpm_to_mpq'
+  lib/super_midi.rb:25:in `to_midi'
+  app/controllers/example_controller.rb:11:in `make_midi'
+
+Rendered rescues/_trace (100.3ms)
+Rendered rescues/_request_and_response (1.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:22:00) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-26 20:22:34) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"d4FkdDC9Wq1DCTN33ZPj051lN7SFRkAIXW/UtLo8Eyc=", "tempo"=>"cat"}
+
+ZeroDivisionError (divided by 0):
+  midilib (1.2.0) [v] lib/midilib/event.rb:544:in `/'
+  midilib (1.2.0) [v] lib/midilib/event.rb:544:in `bpm_to_mpq'
+  lib/super_midi.rb:25:in `to_midi'
+  app/controllers/example_controller.rb:11:in `make_midi'
+
+Rendered rescues/_trace (37.7ms)
+Rendered rescues/_request_and_response (0.6ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:22:43) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:23:49) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 89ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:28:54) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:29:24) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:30:47) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:31:40) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 69ms (View: 67, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:32:44) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 8, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:33:25) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:46:41) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:50:05) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+ERROR: compiling _run_erb_app47views47example47write_text46html46erb RAISED compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^
+Function body:           def _run_erb_app47views47example47write_text46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<center>\n"
+@output_buffer.concat "<h2>Text 2 Midi Converter</h2>\n"
+@output_buffer.concat "<div id=\"midi_form\">\n"
+@output_buffer.concat(( text_area_tag "midi_text", "put text here" ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat(( select( 'tempo', %w{100 120 130 140 150} ) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( hidden_field_tag 'instr', 0 ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<h3>"; @output_buffer.concat(( link_to_remote("Generate Music", :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') ).to_s); @output_buffer.concat "</h3>\n"
+@output_buffer.concat "</center>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:16:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^) on line #5 of app/views/example/write_text.html.erb:
+2: <h2>Text 2 Midi Converter</h2>
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%=  'tempo', 140 %><br/><br/>
+6: <%= select( 'tempo', %w{100 120 130 140 150} ) %>
+7: <%= hidden_field_tag 'instr', 0 %>
+8: </div>
+
+    app/views/example/write_text.html.erb:16:in `compile!'
+
+Rendered rescues/_trace (39.4ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:50:29) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+ERROR: compiling _run_erb_app47views47example47write_text46html46erb RAISED compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^
+Function body:           def _run_erb_app47views47example47write_text46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<center>\n"
+@output_buffer.concat "<h2>Text 2 Midi Converter</h2>\n"
+@output_buffer.concat "<div id=\"midi_form\">\n"
+@output_buffer.concat(( text_area_tag "midi_text", "put text here" ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat(( f.select( 'tempo', %w{100 120 130 140 150} ) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( hidden_field_tag 'instr', 0 ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<h3>"; @output_buffer.concat(( link_to_remote("Generate Music", :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') ).to_s); @output_buffer.concat "</h3>\n"
+@output_buffer.concat "</center>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:16:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^) on line #5 of app/views/example/write_text.html.erb:
+2: <h2>Text 2 Midi Converter</h2>
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%=  'tempo', 140 %><br/><br/>
+6: <%= f.select( 'tempo', %w{100 120 130 140 150} ) %>
+7: <%= hidden_field_tag 'instr', 0 %>
+8: </div>
+
+    app/views/example/write_text.html.erb:16:in `compile!'
+
+Rendered rescues/_trace (108.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:50:59) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+ERROR: compiling _run_erb_app47views47example47write_text46html46erb RAISED compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^
+Function body:           def _run_erb_app47views47example47write_text46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<center>\n"
+@output_buffer.concat "<h2>Text 2 Midi Converter</h2>\n"
+@output_buffer.concat "<div id=\"midi_form\">\n"
+@output_buffer.concat(( text_area_tag "midi_text", "put text here" ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat(( select( :tempo, %w{100 120 130 140 150} ) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( hidden_field_tag 'instr', 0 ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<h3>"; @output_buffer.concat(( link_to_remote("Generate Music", :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') ).to_s); @output_buffer.concat "</h3>\n"
+@output_buffer.concat "</center>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:16:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^) on line #5 of app/views/example/write_text.html.erb:
+2: <h2>Text 2 Midi Converter</h2>
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%=  'tempo', 140 %><br/><br/>
+6: <%= select( :tempo, %w{100 120 130 140 150} ) %>
+7: <%= hidden_field_tag 'instr', 0 %>
+8: </div>
+
+    app/views/example/write_text.html.erb:16:in `compile!'
+
+Rendered rescues/_trace (40.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:54:02) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+ERROR: compiling _run_erb_app47views47example47write_text46html46erb RAISED compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^
+Function body:           def _run_erb_app47views47example47write_text46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<center>\n"
+@output_buffer.concat "<h2>Text 2 Midi Converter</h2>\n"
+@output_buffer.concat "<div id=\"midi_form\">\n"
+@output_buffer.concat(( text_area_tag "midi_text", "put text here" ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat(( select( :tempo, %w{100, 120, 130, 140, 150} ) ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat(( hidden_field_tag 'instr', 0 ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<h3>"; @output_buffer.concat(( link_to_remote("Generate Music", :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') ).to_s); @output_buffer.concat "</h3>\n"
+@output_buffer.concat "</center>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:16:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^) on line #5 of app/views/example/write_text.html.erb:
+2: <h2>Text 2 Midi Converter</h2>
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%=  'tempo', 140 %><br/><br/>
+6: <%= select( :tempo, %w{100, 120, 130, 140, 150} ) %>
+7: <%= hidden_field_tag 'instr', 0 %>
+8: </div>
+
+    app/views/example/write_text.html.erb:16:in `compile!'
+
+Rendered rescues/_trace (41.9ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:54:24) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+ERROR: compiling _run_erb_app47views47example47write_text46html46erb RAISED compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^
+Function body:           def _run_erb_app47views47example47write_text46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<center>\n"
+@output_buffer.concat "<h2>Text 2 Midi Converter</h2>\n"
+@output_buffer.concat "<div id=\"midi_form\">\n"
+@output_buffer.concat(( text_area_tag "midi_text", "put text here" ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat(( hidden_field_tag 'instr', 0 ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<h3>"; @output_buffer.concat(( link_to_remote("Generate Music", :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') ).to_s); @output_buffer.concat "</h3>\n"
+@output_buffer.concat "</center>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:15:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat((  'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                        ^) on line #5 of app/views/example/write_text.html.erb:
+2: <h2>Text 2 Midi Converter</h2>
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%=  'tempo', 140 %><br/><br/>
+6: <%= hidden_field_tag 'instr', 0 %>
+7: </div>
+8: 
+
+    app/views/example/write_text.html.erb:15:in `compile!'
+
+Rendered rescues/_trace (138.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:55:02) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+ERROR: compiling _run_erb_app47views47example47write_text46html46erb RAISED compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat(( 'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                       ^
+Function body:           def _run_erb_app47views47example47write_text46html46erb(local_assigns)
+            old_output_buffer = output_buffer;;@output_buffer = '';  __in_erb_template=true ; @output_buffer.concat "<center>\n"
+@output_buffer.concat "<h2>Text 2 Midi Converter</h2>\n"
+@output_buffer.concat "<div id=\"midi_form\">\n"
+@output_buffer.concat(( text_area_tag "midi_text", "put text here" ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat(( 'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+@output_buffer.concat(( hidden_field_tag 'instr', 0 ).to_s); @output_buffer.concat "\n"
+@output_buffer.concat "</div>\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "\n"
+@output_buffer.concat "<h3>"; @output_buffer.concat(( link_to_remote("Generate Music", :update => "midi_result", :url => {:controller => :example, :action => :make_midi}, :submit => 'midi_form') ).to_s); @output_buffer.concat "</h3>\n"
+@output_buffer.concat "</center>\n"
+@output_buffer
+          ensure
+            self.output_buffer = old_output_buffer
+          end
+Backtrace: /Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:15:in `compile!'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:61:in `compile'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/renderable.rb:28:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/template.rb:194:in `render_template'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:260:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:343:in `_render_with_layout'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_view/base.rb:257:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1241:in `render_for_file'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:937:in `render_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:51:in `render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1317:in `default_render'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:1323:in `perform_action_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:617:in `call_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:610:in `perform_action_without_benchmark'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:10:in `realtime'
+/Library/Ruby/Gems/1.8/gems/activesupport-2.3.2/lib/active_support/core_ext/benchmark.rb:17:in `ms'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/benchmarking.rb:68:in `perform_action_without_rescue'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rescue.rb:160:in `perform_action_without_flash'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/flash.rb:141:in `perform_action'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `send'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:523:in `process_without_filters'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/filters.rb:606:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:391:in `process'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/base.rb:386:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/routing/route_set.rb:433:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:88:in `dispatch'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:111:in `_call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:82:in `initialize'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:29:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/query_cache.rb:34:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:9:in `cache'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/query_cache.rb:28:in `call'
+/Library/Ruby/Gems/1.8/gems/activerecord-2.3.2/lib/active_record/connection_adapters/abstract/connection_pool.rb:361:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/head.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/methodoverride.rb:24:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/params_parser.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/rewindable_input.rb:25:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/session/cookie_store.rb:93:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/reloader.rb:9:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/failsafe.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `synchronize'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/lock.rb:11:in `call'
+/Library/Ruby/Gems/1.8/gems/actionpack-2.3.2/lib/action_controller/dispatcher.rb:106:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/static.rb:31:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:46:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `each'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/urlmap.rb:40:in `call'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/rails/rack/log_tailer.rb:17:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/content_length.rb:13:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/chunked.rb:15:in `call'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:61:in `process'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:159:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `each'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:158:in `process_client'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:285:in `run'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `initialize'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `new'
+/Library/Ruby/Gems/1.8/gems/mongrel-1.1.5/lib/mongrel.rb:268:in `run'
+/Library/Ruby/Gems/1.8/gems/rack-1.0.0/lib/rack/handler/mongrel.rb:34:in `run'
+/Library/Ruby/Gems/1.8/gems/rails-2.3.2/lib/commands/server.rb:111
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `gem_original_require'
+/Library/Ruby/Site/1.8/rubygems/custom_require.rb:31:in `require'
+script/server:3
+
+ActionView::TemplateError (compile error
+/Users/gabrielgarrod/Desktop/github/literature2music2/app/views/example/write_text.html.erb:5: syntax error, unexpected ',', expecting ')'
+@output_buffer.concat "Tempo: <br/> "; @output_buffer.concat(( 'tempo', 140 ).to_s); @output_buffer.concat "<br/><br/>\n"
+                                                                       ^) on line #5 of app/views/example/write_text.html.erb:
+2: <h2>Text 2 Midi Converter</h2>
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%= 'tempo', 140 %><br/><br/>
+6: <%= hidden_field_tag 'instr', 0 %>
+7: </div>
+8: 
+
+    app/views/example/write_text.html.erb:15:in `compile!'
+
+Rendered rescues/_trace (41.0ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:55:43) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 16ms (View: 14, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:56:08) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+
+ActionView::TemplateError (undefined local variable or method `f' for #<ActionView::Base:0x223bef8>) on line #6 of app/views/example/write_text.html.erb:
+3: <div id="midi_form">
+4: <%= text_area_tag "midi_text", "put text here" %><br/><br/>
+5: Tempo: <br/> <%= text_field_tag 'tempo', 140 %><br/><br/>
+6: <%= f.select( :tempo, %w{1 2 3 4 5} ) %>
+7: <%= hidden_field_tag 'instr', 0 %>
+8: </div>
+9: 
+
+    app/views/example/write_text.html.erb:6
+
+Rendered rescues/_trace (47.1ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 20:56:23) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 9ms (View: 7, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 21:00:10) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 72ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-26 21:00:19) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"d4FkdDC9Wq1DCTN33ZPj051lN7SFRkAIXW/UtLo8Eyc=", "0"=>"140"}
+
+ZeroDivisionError (divided by 0):
+  midilib (1.2.0) [v] lib/midilib/event.rb:544:in `/'
+  midilib (1.2.0) [v] lib/midilib/event.rb:544:in `bpm_to_mpq'
+  lib/super_midi.rb:25:in `to_midi'
+  app/controllers/example_controller.rb:10:in `make_midi'
+
+Rendered rescues/_trace (34.3ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-26 21:00:31) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-26 21:00:33) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"d4FkdDC9Wq1DCTN33ZPj051lN7SFRkAIXW/UtLo8Eyc=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 383ms (View: 379, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-27 17:44:55) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 136ms (View: 134, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-27 17:45:02) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"uHa8ziS0wGfQ5n+aqOTWTSvTNWUwLmAd7tv3p1NEiYg=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 7ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-27 17:45:02) [GET]
+
+ActionController::RoutingError (No route matches "/tmp/1256690702.16163.mid" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-27 17:50:09) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-27 17:50:14) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"uHa8ziS0wGfQ5n+aqOTWTSvTNWUwLmAd7tv3p1NEiYg=", "tempo"=>"140"}
+
+Errno::ENOENT (No such file or directory - /Users/gabrielgarrod/Desktop/github/literature2music2/public/midifiles/1256691014.17477.mid):
+  lib/super_midi.rb:43:in `initialize'
+  lib/super_midi.rb:43:in `open'
+  lib/super_midi.rb:43:in `to_midi'
+  app/controllers/example_controller.rb:10:in `make_midi'
+
+Rendered rescues/_trace (35.0ms)
+Rendered rescues/_request_and_response (1.8ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-27 17:51:26) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-27 17:51:29) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"uHa8ziS0wGfQ5n+aqOTWTSvTNWUwLmAd7tv3p1NEiYg=", "tempo"=>"140"}
+
+Errno::ENOENT (No such file or directory - /Users/gabrielgarrod/Desktop/github/literature2music2/public/midifiles/1256691089.21727.mid):
+  lib/super_midi.rb:43:in `initialize'
+  lib/super_midi.rb:43:in `open'
+  lib/super_midi.rb:43:in `to_midi'
+  app/controllers/example_controller.rb:10:in `make_midi'
+
+Rendered rescues/_trace (33.7ms)
+Rendered rescues/_request_and_response (0.3ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-27 17:51:42) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-27 17:51:53) [POST]
+  Parameters: {"midi_text"=>"this is a new song ", "instr"=>"0", "authenticity_token"=>"uHa8ziS0wGfQ5n+aqOTWTSvTNWUwLmAd7tv3p1NEiYg=", "tempo"=>"140"}
+
+Errno::ENOENT (No such file or directory - /Users/gabrielgarrod/Desktop/github/literature2music2/public/midifiles/1256691113.54997.mid):
+  lib/super_midi.rb:43:in `initialize'
+  lib/super_midi.rb:43:in `open'
+  lib/super_midi.rb:43:in `to_midi'
+  app/controllers/example_controller.rb:10:in `make_midi'
+
+Rendered rescues/_trace (34.6ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-27 17:52:40) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 5ms (View: 3, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-27 17:52:42) [POST]
+  Parameters: {"midi_text"=>"this is a new song ", "instr"=>"0", "authenticity_token"=>"uHa8ziS0wGfQ5n+aqOTWTSvTNWUwLmAd7tv3p1NEiYg=", "tempo"=>"140"}
+
+Errno::ENOENT (No such file or directory - /Users/gabrielgarrod/Desktop/github/literature2music2/public/midifiles/1256691162.79696.mid):
+  lib/super_midi.rb:43:in `initialize'
+  lib/super_midi.rb:43:in `open'
+  lib/super_midi.rb:43:in `to_midi'
+  app/controllers/example_controller.rb:10:in `make_midi'
+
+Rendered rescues/_trace (34.3ms)
+Rendered rescues/_request_and_response (0.4ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing ExampleController#write_text (for 127.0.0.1 at 2009-10-27 17:53:48) [GET]
+Rendering template within layouts/application
+Rendering example/write_text
+Completed in 15ms (View: 13, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing ExampleController#make_midi (for 127.0.0.1 at 2009-10-27 17:53:51) [POST]
+  Parameters: {"midi_text"=>"put text here", "instr"=>"0", "authenticity_token"=>"uHa8ziS0wGfQ5n+aqOTWTSvTNWUwLmAd7tv3p1NEiYg=", "tempo"=>"140"}
+Rendering example/make_midi
+Completed in 8ms (View: 4, DB: 0) | 200 OK [http://0.0.0.0/example/make_midi]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-27 17:53:51) [GET]
+
+ActionController::RoutingError (No route matches "/tmp/midifiles/1256691231.47972.mid" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-27 17:54:15) [GET]
+
+ActionController::RoutingError (No route matches "/tmp/midifiles/1256691231.47972.mid" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2009-10-27 17:54:21) [GET]
+
+ActionController::RoutingError (No route matches "/tmp/midifiles/1256691231.47972.mid" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)

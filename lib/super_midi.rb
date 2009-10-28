@@ -4,7 +4,7 @@ class SuperMidi
     "Hello world".to_midi
   end
   
-  FILE_DIRECTORY = "public/midifiles"
+  FILE_DIRECTORY = "tmp/midifiles"
 end
 
 

@@ -1,6 +1,5 @@
 class ExampleController < ApplicationController
   require 'super_midi'
-  require 'instruments'
   
   def write_text
   end
@@ -19,7 +18,7 @@ class ExampleController < ApplicationController
   def download_midi
     filename = params[:file]
     puts params.inspect
-    send_file("#{RAILS_ROOT}/public/midifiles/#{filename}", "new_song.mid")
+    send_file("#{RAILS_ROOT}/tmp/midifiles/#{filename}", "new_song.mid")
   end
   
 end
